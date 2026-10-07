@@ -69,6 +69,21 @@ pub fn apply_github_mirror(url: &str) -> String {
     url.to_string()
 }
 
+pub fn is_github_mirror_host(host: &str) -> bool {
+    let mirror = GITHUB_MIRROR.read().ok().and_then(|g| g.clone());
+    if let Some(mirror_url) = mirror {
+        let without_scheme = mirror_url
+            .strip_prefix("https://")
+            .or_else(|| mirror_url.strip_prefix("http://"))
+            .unwrap_or(&mirror_url);
+        let mirror_host = without_scheme.split(['/', '?', '#']).next().unwrap_or(without_scheme);
+        if host == mirror_host {
+            return true;
+        }
+    }
+    false
+}
+
 /// Configure Electron's ephemeral, loopback-only system/PAC proxy relay.
 /// This value is runtime-only and is never copied into host-core's environment.
 pub fn set_system_proxy_relay(value: &str) -> Result<(), String> {
