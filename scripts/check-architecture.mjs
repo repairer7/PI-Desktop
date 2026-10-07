@@ -90,7 +90,7 @@ function parseArgs() {
 
 function revisionExists(revision) {
   try {
-    git(["rev-parse", "--verify", revision]);
+    git(["cat-file", "-e", revision + "^{commit}"]);
     return true;
   } catch {
     return false;
