@@ -1,3 +1,4 @@
+import { applyGithubMirrorFromAppSettings } from "../github-mirror";
 import { mkdirSync } from "node:fs";
 import { join } from "node:path";
 import {
@@ -227,8 +228,10 @@ export function createRuntimeLifecycle({
     try {
       const stored = await runtimeState.host!.call("settings.get");
       await applyNetworkProxyFromAppSettings(stored);
+      applyGithubMirrorFromAppSettings(stored);
     } catch {
       await applyNetworkProxyFromAppSettings({ mode: "system" });
+      applyGithubMirrorFromAppSettings({});
     }
     await startSidecar();
 

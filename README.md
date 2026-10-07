@@ -6,22 +6,27 @@
 
 ### A modular desktop workspace for AI agents
 
+> **🚀 PI-Desktop (Proxy Edition)**
+> 
+> **This repository is a customized fork of [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop).**  
+> **Exclusive Features:** Built-in global GitHub reverse proxy. When enabled in the settings, all plugin downloads and software updates will be routed through your proxy domain (e.g., `https://mirror.ghproxy.com/`), completely solving download failures in restricted network environments. The packaged application includes auto-update functionality that stays in sync with the upstream official release every day!
+
 **Bring projects, agents, models, plugins, and workflows into one persistent desktop environment.**
 
 Local-first · Model-agnostic · Plugin-powered · macOS / Windows / Linux
 
 <br />
 
-[![Release](https://img.shields.io/github/v/release/vastsa/PI-Desktop?label=release)](https://github.com/vastsa/PI-Desktop/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/vastsa/PI-Desktop/total?label=downloads)](https://github.com/vastsa/PI-Desktop/releases)
-[![Stars](https://img.shields.io/github/stars/vastsa/PI-Desktop?style=flat\&label=stars)](https://github.com/vastsa/PI-Desktop/stargazers)
-[![CI](https://github.com/vastsa/PI-Desktop/actions/workflows/ci.yml/badge.svg)](https://github.com/vastsa/PI-Desktop/actions/workflows/ci.yml)
-[![License](https://img.shields.io/github/license/vastsa/PI-Desktop)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/repairer7/PI-Desktop?label=release)](https://github.com/repairer7/PI-Desktop/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/repairer7/PI-Desktop/total?label=downloads)](https://github.com/repairer7/PI-Desktop/releases)
+[![Stars](https://img.shields.io/github/stars/repairer7/PI-Desktop?style=flat\&label=stars)](https://github.com/repairer7/PI-Desktop/stargazers)
+[![CI](https://github.com/repairer7/PI-Desktop/actions/workflows/ci.yml/badge.svg)](https://github.com/repairer7/PI-Desktop/actions/workflows/ci.yml)
+[![License](https://img.shields.io/github/license/repairer7/PI-Desktop)](LICENSE)
 [![Reddit](https://img.shields.io/badge/Reddit-r%2FAIUO-FF4500?logo=reddit\&logoColor=white)](https://www.reddit.com/r/AIUO/)
 
 <br />
 
-**[Download](https://github.com/vastsa/PI-Desktop/releases/latest)** ·
+**[Download](https://github.com/repairer7/PI-Desktop/releases/latest)** ·
 [Documentation](https://pi-docs.aiuo.net/) ·
 [Build a Plugin](docs/plugin-development.md) ·
 [Screenshots](docs/guide/screenshots.md) ·

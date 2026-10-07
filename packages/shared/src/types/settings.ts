@@ -30,7 +30,7 @@ export type JevKeyCheckResult = {
 /**
  * What closing the main window does on Windows/Linux. macOS keeps the native
  * Dock lifecycle and never consults this preference.
- * - `ask`: transient unset state â€” the first close prompts once; after a
+ * - `ask`: transient unset state â€?the first close prompts once; after a
  *   choice is made it is remembered permanently and cannot be reverted
  * - `tray`: hide to the system tray; the app keeps running in the background
  * - `quit`: close the window and exit the app (legacy behavior)
@@ -106,7 +106,7 @@ export type AppSettings = {
   fontFamily?: string;
   /**
    * Global UI type scale (D343). `1` is the product `--text-*` ramp.
-   * Absent means 1. Range 0.8â€“1.5 in 0.025 steps. Window zoom is independent.
+   * Absent means 1. Range 0.8â€?.5 in 0.025 steps. Window zoom is independent.
    */
   fontScale?: number;
   /** Transcript presentation only; absent means detailed. Reasoning is retained. */
@@ -137,6 +137,10 @@ export type AppSettings = {
   pluginMarketSource?: PluginMarketSource;
   /** Catalog URL used when `pluginMarketSource` is `custom`. */
   pluginMarketCustomUrl?: string;
+  /** Enable global GitHub acceleration/reverse proxy */
+  enableGithubAcceleration?: boolean;
+  /** GitHub acceleration proxy URL (e.g. https://gh.mirror.ghproxy.com/) */
+  githubAccelerationUrl?: string;
   /**
    * Outbound proxy for app-owned HTTP (D340). Absent means System: Chromium
    * follows the OS proxy; Node sidecar traffic stays direct unless Custom

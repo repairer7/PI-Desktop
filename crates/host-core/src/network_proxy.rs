@@ -16,6 +16,7 @@ pub enum ProxyMode {
 
 static MARKET_PROXY: RwLock<ProxyMode> = RwLock::new(ProxyMode::System);
 static SYSTEM_PROXY_RELAY: RwLock<Option<String>> = RwLock::new(None);
+static GITHUB_MIRROR: RwLock<Option<String>> = RwLock::new(None);
 
 /// Mirrors `DEFAULT_NETWORK_PROXY_BYPASS` in `packages/shared`: loopback plus
 /// the private ranges a user's own LAN devices live in, so a custom proxy never
@@ -28,6 +29,44 @@ pub fn apply_from_settings(value: Option<&Value>) {
     if let Ok(mut slot) = MARKET_PROXY.write() {
         *slot = next;
     }
+
+    let mirror = value.and_then(|v| {
+        let enabled = v
+            .get("enableGithubAcceleration")
+            .and_then(Value::as_bool)
+            .unwrap_or(false);
+        if enabled {
+            let url = v
+                .get("githubAccelerationUrl")
+                .and_then(Value::as_str)
+                .unwrap_or("https://mirror.ghproxy.com/")
+                .trim()
+                .to_string();
+            Some(if url.ends_with('/') {
+                url
+            } else {
+                format!("{url}/")
+            })
+        } else {
+            None
+        }
+    });
+    if let Ok(mut slot) = GITHUB_MIRROR.write() {
+        *slot = mirror;
+    }
+}
+
+pub fn apply_github_mirror(url: &str) -> String {
+    let mirror = GITHUB_MIRROR.read().ok().and_then(|g| g.clone());
+    if let Some(mirror_url) = mirror {
+        if url.starts_with("https://github.com/")
+            || url.starts_with("https://raw.githubusercontent.com/")
+            || url.starts_with("https://api.github.com/")
+        {
+            return format!("{}{url}", mirror_url);
+        }
+    }
+    url.to_string()
 }
 
 /// Configure Electron's ephemeral, loopback-only system/PAC proxy relay.

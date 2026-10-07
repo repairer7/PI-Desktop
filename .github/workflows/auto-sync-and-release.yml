@@ -1,0 +1,59 @@
+name: Auto Sync and Release
+
+on:
+  schedule:
+    - cron: "0 2 * * *" # Run daily at 2:00 AM UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  sync-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Add upstream
+        run: |
+          git remote add upstream https://github.com/vastsa/PI-Desktop.git
+          git fetch upstream
+
+      - name: Rebase onto upstream/main
+        run: |
+          # Rebase our custom changes on top of the latest upstream main
+          git rebase upstream/main
+          # Push the rebased main back to our fork
+          git push -f origin main
+
+      - name: Check version and create tag
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Read the version from apps/desktop/package.json
+          VERSION=$(node -p "require('./apps/desktop/package.json').version")
+          TAG_NAME="v$VERSION"
+          
+          # Check if tag already exists in origin
+          if git ls-remote --tags origin | grep -q "refs/tags/$TAG_NAME"; then
+            echo "Tag $TAG_NAME already exists, skipping release."
+          else
+            echo "New version detected: $TAG_NAME, creating and pushing tag."
+            git tag "$TAG_NAME"
+            git push origin "$TAG_NAME"
+            
+            echo "Triggering release workflow..."
+            gh workflow run release.yml --ref "$TAG_NAME"
+          fi
+

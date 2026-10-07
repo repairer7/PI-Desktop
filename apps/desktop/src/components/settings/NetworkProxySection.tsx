@@ -192,6 +192,28 @@ export function NetworkProxySection({
             onChange={() => void persistNetworkPolicy(relaxed ? "strict" : "relaxed")}
           />
         </SettingsRow>
+        
+        <SettingsRow
+          title={"GitHub Acceleration / Reverse Proxy"}
+          description={"Enable global GitHub mirror for plugins, skills, and updates (e.g. https://gh.mirror.ghproxy.com/)"}
+        >
+          <SettingsToggle
+            checked={settings.enableGithubAcceleration ?? false}
+            label={"Enable"}
+            onChange={() => void saveSettings({ enableGithubAcceleration: !(settings.enableGithubAcceleration ?? false) })}
+          />
+        </SettingsRow>
+
+        {settings.enableGithubAcceleration ? (
+          <SettingsRow title={"GitHub Proxy URL"}>
+             <Input
+               value={settings.githubAccelerationUrl ?? "https://gh.mirror.ghproxy.com/"}
+               placeholder={"https://gh.mirror.ghproxy.com/"}
+               aria-label={"GitHub Proxy URL"}
+               onChange={(event) => void saveSettings({ githubAccelerationUrl: event.target.value })}
+             />
+          </SettingsRow>
+        ) : null}
 
         {saved.mode === "custom" ? (
           <>
