@@ -76,7 +76,10 @@ pub fn is_github_mirror_host(host: &str) -> bool {
             .strip_prefix("https://")
             .or_else(|| mirror_url.strip_prefix("http://"))
             .unwrap_or(&mirror_url);
-        let mirror_host = without_scheme.split(['/', '?', '#']).next().unwrap_or(without_scheme);
+        let mirror_host = without_scheme
+            .split(['/', '?', '#'])
+            .next()
+            .unwrap_or(without_scheme);
         if host == mirror_host {
             return true;
         }
