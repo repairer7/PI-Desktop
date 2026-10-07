@@ -6,23 +6,28 @@
 
 ### 可拆卸的 AI Agent 桌面工作台
 
+> **🚀 PI-Desktop (Proxy Edition / 镜像加速版)**
+> 
+> **本仓库是 [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) 的定制分支。**  
+> **新增专属功能**：内置全局 GitHub 反代加速。在设置中开启后，所有插件下载、组件更新都会通过你的代理加速域名（如 `https://mirror.ghproxy.com/`）进行，彻底解决国内网络环境下的下载失败问题。安装包自带自动更新，每天自动与上游官方保持同步！
+
 **把项目、Agent、模型、插件和工作流，装进一个长期可用的桌面环境。**
 
 本地优先 · 模型自由 · 插件驱动 · macOS / Windows / Linux
 
 <br />
 
-[![Release](https://img.shields.io/github/v/release/vastsa/PI-Desktop?label=release)](https://github.com/vastsa/PI-Desktop/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/vastsa/PI-Desktop/total?label=downloads)](https://github.com/vastsa/PI-Desktop/releases)
-[![Stars](https://img.shields.io/github/stars/vastsa/PI-Desktop?style=flat\&label=stars)](https://github.com/vastsa/PI-Desktop/stargazers)
-[![CI](https://github.com/vastsa/PI-Desktop/actions/workflows/ci.yml/badge.svg)](https://github.com/vastsa/PI-Desktop/actions/workflows/ci.yml)
-[![License](https://img.shields.io/github/license/vastsa/PI-Desktop)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/repairer7/PI-Desktop?label=release)](https://github.com/repairer7/PI-Desktop/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/repairer7/PI-Desktop/total?label=downloads)](https://github.com/repairer7/PI-Desktop/releases)
+[![Stars](https://img.shields.io/github/stars/repairer7/PI-Desktop?style=flat\&label=stars)](https://github.com/repairer7/PI-Desktop/stargazers)
+[![CI](https://github.com/repairer7/PI-Desktop/actions/workflows/ci.yml/badge.svg)](https://github.com/repairer7/PI-Desktop/actions/workflows/ci.yml)
+[![License](https://img.shields.io/github/license/repairer7/PI-Desktop)](LICENSE)
 [![Reddit](https://img.shields.io/badge/Reddit-r%2FAIUO-FF4500?logo=reddit\&logoColor=white)](https://www.reddit.com/r/AIUO/)
 [![QQ 群：点击加入 PI-Desktop 开发者交流群](https://img.shields.io/badge/QQ-%E5%8A%A0%E5%85%A5%E5%BC%80%E5%8F%91%E8%80%85%E4%BA%A4%E6%B5%81%E7%BE%A4-12B7F5?logo=tencentqq&logoColor=white)](https://qm.qq.com/q/iWP8i0XxIc)
 
 <br />
 
-**[立即下载](https://github.com/vastsa/PI-Desktop/releases/latest)** ·
+**[立即下载](https://github.com/repairer7/PI-Desktop/releases/latest)** ·
 [使用文档](https://pi-docs.aiuo.net/) ·
 [插件开发](docs/plugin-development.md) ·
 [界面预览](docs/guide/screenshots.md) ·

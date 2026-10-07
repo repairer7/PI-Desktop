@@ -87,7 +87,7 @@ jobs:
     needs: verify
     env:
       # Tag pushes always sign. workflow_dispatch signs unless explicitly disabled.
-      MACOS_SIGN_RELEASE: ${{ github.event_name != 'workflow_dispatch' || inputs.sign_macos == true }}
+      MACOS_SIGN_RELEASE: 'false'
     strategy:
       fail-fast: false
       matrix:

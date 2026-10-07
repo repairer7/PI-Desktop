@@ -5,6 +5,7 @@ import type { IpcRegistrar } from "./types";
 import type { LiveCallService } from "../live-voice/call-service";
 import type { AppSettings } from "@pi-desktop/shared";
 import { currentSystemProxyRelayUrl } from "../network-proxy";
+import { applyGithubMirrorFromAppSettings } from "../github-mirror";
 
 export type SettingsIpcDependencies = {
   registrar: IpcRegistrar;
@@ -98,6 +99,7 @@ export function registerSettingsIpc({
       applyPreventScreenSleep(validatedSettings as { preventScreenSleep: boolean });
     }
     await applyNetworkProxyFromAppSettings(validatedSettings);
+    applyGithubMirrorFromAppSettings(result);
     if (sidecar) {
       try {
         await sidecar.call("sidecar.configure", {

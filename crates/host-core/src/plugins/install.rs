@@ -727,6 +727,9 @@ pub(crate) fn download_url_observed(
     total_bytes: u64,
     report: &mut DownloadReport<'_>,
 ) -> Result<Vec<u8>> {
+    let url_str = crate::network_proxy::apply_github_mirror(url);
+    let url = url_str.as_str();
+
     if let Some(path) = url.strip_prefix("file://") {
         let bytes = fs::read(path).with_context(|| format!("read local url {path}"))?;
         report.bytes(bytes.len() as u64, total_bytes.max(bytes.len() as u64));
