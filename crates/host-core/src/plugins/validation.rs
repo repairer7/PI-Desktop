@@ -978,6 +978,9 @@ pub(crate) fn package_host_allowed(package_url: &str, catalog_url: &str) -> Resu
     {
         return Ok(());
     }
+    if crate::network_proxy::is_github_mirror_host(&host) {
+        return Ok(());
+    }
     if let Ok((catalog_host, _)) = package_url_host(catalog_url) {
         if host == catalog_host {
             return Ok(());
