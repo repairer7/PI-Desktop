@@ -92,20 +92,6 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - name: macOS arm64
-            os: macos-15
-            arch: arm64
-            runner_arch: arm64
-            artifact: mac-arm64
-            platform: macos
-            dist: dist:mac
-          - name: macOS Intel x64
-            os: macos-15-intel
-            arch: x64
-            runner_arch: x86_64
-            artifact: mac-x64
-            platform: macos
-            dist: dist:mac
           - name: Windows x64
             os: windows-latest
             arch: x64
@@ -527,37 +513,7 @@ jobs:
       - name: List artifacts
         run: ls -la dist/
 
-      - name: Merge macOS updater metadata
-        working-directory: dist
-        run: |
-          set -euo pipefail
-          ruby <<'RUBY'
-          require "yaml"
 
-          paths = Dir["latest-mac-*.yml"].sort
-          expected_paths = ["latest-mac-arm64.yml", "latest-mac-x64.yml"]
-          abort "Expected both macOS updater feeds" unless paths == expected_paths
-
-          feeds = paths.map do |path|
-            YAML.safe_load(File.read(path), permitted_classes: [], aliases: false)
-          end
-          versions = feeds.map { |feed| feed.fetch("version") }.uniq
-          abort "macOS updater feeds disagree on version" unless versions.length == 1
-
-          files = feeds.flat_map { |feed| feed.fetch("files") }
-            .uniq { |file| file.fetch("url") }
-          zip = files.find { |file| file.fetch("url").end_with?(".zip") }
-          abort "macOS updater feeds contain no ZIP" if zip.nil?
-
-          merged = feeds.first.merge(
-            "version" => versions.first,
-            "files" => files,
-            "path" => zip.fetch("url"),
-            "sha512" => zip.fetch("sha512"),
-          )
-          File.write("latest-mac.yml", merged.to_yaml)
-          RUBY
-          rm latest-mac-arm64.yml latest-mac-x64.yml
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v3
