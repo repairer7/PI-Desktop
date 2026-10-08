@@ -53,3 +53,15 @@ function applyToSession(ses: Electron.Session) {
   );
 }
 
+export function transformGithubUrl(url: string): string {
+  if (!currentMirror.enabled) return url;
+  if (
+    url.startsWith("https://github.com/") ||
+    url.startsWith("https://raw.githubusercontent.com/") ||
+    url.startsWith("https://api.github.com/")
+  ) {
+    return currentMirror.url + url;
+  }
+  return url;
+}
+
