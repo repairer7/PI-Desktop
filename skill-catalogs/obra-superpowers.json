@@ -1,0 +1,158 @@
+{
+  "catalog": {
+    "schemaVersion": 1,
+    "updatedAt": "2026-10-08",
+    "skills": [
+      {
+        "id": "brainstorming",
+        "name": "brainstorming",
+        "author": "obra",
+        "homepage": "https://github.com/obra/superpowers/tree/main/skills/brainstorming",
+        "url": "https://raw.githubusercontent.com/obra/superpowers/main/skills/brainstorming/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "diagnosing-superpowers",
+        "name": "diagnosing-superpowers",
+        "author": "obra",
+        "homepage": "https://github.com/obra/superpowers/tree/main/skills/diagnosing-superpowers",
+        "url": "https://raw.githubusercontent.com/obra/superpowers/main/skills/diagnosing-superpowers/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "dispatching-parallel-agents",
+        "name": "dispatching-parallel-agents",
+        "author": "obra",
+        "homepage": "https://github.com/obra/superpowers/tree/main/skills/dispatching-parallel-agents",
+        "url": "https://raw.githubusercontent.com/obra/superpowers/main/skills/dispatching-parallel-agents/SKILL.md",
+        "categories": [
+          "coding"
+        ]
+      },
+      {
+        "id": "executing-plans",
+        "name": "executing-plans",
+        "author": "obra",
+        "homepage": "https://github.com/obra/superpowers/tree/main/skills/executing-plans",
+        "url": "https://raw.githubusercontent.com/obra/superpowers/main/skills/executing-plans/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "finishing-a-development-branch",
+        "name": "finishing-a-development-branch",
+        "author": "obra",
+        "homepage": "https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch",
+        "url": "https://raw.githubusercontent.com/obra/superpowers/main/skills/finishing-a-development-branch/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "receiving-code-review",
+        "name": "receiving-code-review",
+        "author": "obra",
+        "homepage": "https://github.com/obra/superpowers/tree/main/skills/receiving-code-review",
+        "url": "https://raw.githubusercontent.com/obra/superpowers/main/skills/receiving-code-review/SKILL.md",
+        "categories": [
+          "coding"
+        ]
+      },
+      {
+        "id": "requesting-code-review",
+        "name": "requesting-code-review",
+        "author": "obra",
+        "homepage": "https://github.com/obra/superpowers/tree/main/skills/requesting-code-review",
+        "url": "https://raw.githubusercontent.com/obra/superpowers/main/skills/requesting-code-review/SKILL.md",
+        "categories": [
+          "coding"
+        ]
+      },
+      {
+        "id": "subagent-driven-development",
+        "name": "subagent-driven-development",
+        "author": "obra",
+        "homepage": "https://github.com/obra/superpowers/tree/main/skills/subagent-driven-development",
+        "url": "https://raw.githubusercontent.com/obra/superpowers/main/skills/subagent-driven-development/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "systematic-debugging",
+        "name": "systematic-debugging",
+        "author": "obra",
+        "homepage": "https://github.com/obra/superpowers/tree/main/skills/systematic-debugging",
+        "url": "https://raw.githubusercontent.com/obra/superpowers/main/skills/systematic-debugging/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "test-driven-development",
+        "name": "test-driven-development",
+        "author": "obra",
+        "homepage": "https://github.com/obra/superpowers/tree/main/skills/test-driven-development",
+        "url": "https://raw.githubusercontent.com/obra/superpowers/main/skills/test-driven-development/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "using-git-worktrees",
+        "name": "using-git-worktrees",
+        "author": "obra",
+        "homepage": "https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees",
+        "url": "https://raw.githubusercontent.com/obra/superpowers/main/skills/using-git-worktrees/SKILL.md",
+        "categories": [
+          "coding"
+        ]
+      },
+      {
+        "id": "using-superpowers",
+        "name": "using-superpowers",
+        "author": "obra",
+        "homepage": "https://github.com/obra/superpowers/tree/main/skills/using-superpowers",
+        "url": "https://raw.githubusercontent.com/obra/superpowers/main/skills/using-superpowers/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "verification-before-completion",
+        "name": "verification-before-completion",
+        "author": "obra",
+        "homepage": "https://github.com/obra/superpowers/tree/main/skills/verification-before-completion",
+        "url": "https://raw.githubusercontent.com/obra/superpowers/main/skills/verification-before-completion/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "writing-plans",
+        "name": "writing-plans",
+        "author": "obra",
+        "homepage": "https://github.com/obra/superpowers/tree/main/skills/writing-plans",
+        "url": "https://raw.githubusercontent.com/obra/superpowers/main/skills/writing-plans/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "writing-skills",
+        "name": "writing-skills",
+        "author": "obra",
+        "homepage": "https://github.com/obra/superpowers/tree/main/skills/writing-skills",
+        "url": "https://raw.githubusercontent.com/obra/superpowers/main/skills/writing-skills/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      }
+    ]
+  }
+}
