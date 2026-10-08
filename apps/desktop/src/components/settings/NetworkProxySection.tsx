@@ -242,6 +242,18 @@ export function NetworkProxySection({
                     {t("settings.proxyInvalid")}
                   </span>
                 ) : null}
+
+          {settings.enableGithubAcceleration ? (
+            <SettingsRow title={"GitHub PAT (Token)"} description={"Provide a GitHub Personal Access Token to bypass api.github.com rate limits when scanning skill markets."}>
+               <Input
+                 type={"password"}
+                 value={settings.githubPersonalAccessToken ?? ""}
+                 placeholder={"ghp_..."}
+                 aria-label={"GitHub PAT"}
+                 onChange={(event) => void saveSettings({ githubPersonalAccessToken: event.target.value })}
+               />
+            </SettingsRow>
+          ) : null}
               </div>
             </SettingsRow>
             <SettingsRow
@@ -281,6 +293,18 @@ export function NetworkProxySection({
                     {testMessage}
                   </span>
                 ) : null}
+
+          {settings.enableGithubAcceleration ? (
+            <SettingsRow title={"GitHub PAT (Token)"} description={"Provide a GitHub Personal Access Token to bypass api.github.com rate limits when scanning skill markets."}>
+               <Input
+                 type={"password"}
+                 value={settings.githubPersonalAccessToken ?? ""}
+                 placeholder={"ghp_..."}
+                 aria-label={"GitHub PAT"}
+                 onChange={(event) => void saveSettings({ githubPersonalAccessToken: event.target.value })}
+               />
+            </SettingsRow>
+          ) : null}
               </div>
             </SettingsRow>
           </>
