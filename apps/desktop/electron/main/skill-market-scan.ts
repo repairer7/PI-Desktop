@@ -4,6 +4,7 @@
  * Catalog JSON sources and GitHub repo auto-scans share one request function
  * (the public-HTTPS client). One failing source only costs itself.
  */
+import { transformGithubUrl } from "./github-mirror";
 import {
   PUBLIC_NETWORK_POLICY_ERROR,
   isProxyFakeIpAddress,
