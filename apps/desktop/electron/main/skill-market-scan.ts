@@ -262,7 +262,7 @@ export function createSkillMarketAggregator(
         name: rawSlug,
         author: owner,
         homepage: `https://github.com/${owner}/${repo}/tree/${branch}/${dir}`,
-        url: `https://cdn.jsdelivr.net/gh/${owner}/${repo}@${branch}/${path}`,
+        url: `https://raw.githubusercontent.com////`,
         categories: guessSkillCategories(`${dir} ${rawSlug}`),
         sourceId: source.id,
       });
@@ -285,18 +285,18 @@ export function createSkillMarketAggregator(
       const dir = path.replace(/SKILL\.md$/, "");
       try {
         const listing = (await fetchJson<{ tree?: Array<{ path: string }> }>(
-          `https://data.jsdelivr.com/v1/packages/gh/${owner}/${repo}@${ref}?structure=flat`,
+          `https://api.github.com/repos///git/trees/?recursive=1`,
           "third-party",
-        )) as { files?: Array<{ name: string }> };
-        const siblings = (listing.files ?? [])
-          .map((file) => file.name)
+        )) as { tree?: Array<{ path: string }> };
+        const siblings = (listing.tree ?? [])
+          .map((file) => file.path)
           .filter((name) => name.startsWith(dir) && !SKILL_FILE.test(name) && name.endsWith(".md"));
         const resources: Array<{ path: string; body: string }> = [];
         for (const name of siblings.slice(0, 20)) {
           resources.push({
             path: name.slice(dir.length),
             body: await fetchText(
-              `https://cdn.jsdelivr.net/gh/${owner}/${repo}@${ref}/${name}`,
+              `https://raw.githubusercontent.com////`,
               "third-party",
             ),
           });
