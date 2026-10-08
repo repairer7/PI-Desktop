@@ -11,7 +11,7 @@ export type PinnedNetworkAddress = {
 /** Make a direct request to the exact address already accepted by the guard. */
 export function fetchPinnedDirect(
   url: string,
-  init: { signal: AbortSignal },
+  init: { signal: AbortSignal; headers?: Record<string, string> },
   resolved: PinnedNetworkAddress,
 ): Promise<Response> {
   const parsed = new URL(url);
@@ -34,7 +34,7 @@ export function fetchPinnedDirect(
         path: `${parsed.pathname}${parsed.search}`,
         method: "GET",
         ...(secure && !isIP(hostname) ? { servername: hostname } : {}),
-        headers: { Host: parsed.host, Accept: "*/*" },
+        headers: { Host: parsed.host, Accept: "*/*", ...(init.headers || {}) },
         lookup: (_hostname, _options, callback) =>
           callback(null, resolved.address, resolved.family),
         signal: init.signal,
