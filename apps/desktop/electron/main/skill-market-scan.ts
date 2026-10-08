@@ -104,7 +104,7 @@ export type SkillMarketDocument = {
 
 const CACHE_TTL_MS = 5 * 60_000;
 const GITHUB_REPO = /^https:\/\/github\.com\/([\w.-]+)\/([\w.-]+?)(?:\.git)?(?:[/?#]|$)/;
-const JSDELIVR_GH = /^https:\/\/cdn\.jsdelivr\.net\/gh\/([^/]+)\/([^/]+)@([^/]+)\/(.+)$/;
+const JSDELIVR_GH = /^https:\/\/raw\.githubusercontent\.com\/([^/]+)\/([^/]+)\/([^/]+)\/(.+)$/;
 const SKILL_FILE = /(?:^|\/)SKILL\.md$/;
 
 /**
@@ -204,11 +204,11 @@ export function createSkillMarketAggregator(
   const documentCache = new Map<string, { at: number; document: SkillMarketDocument }>();
 
   async function fetchJson<T>(url: string, origin?: EndpointOrigin): Promise<T> {
-    return (await request(url, "json", origin)) as T;
+    return (await request(transformGithubUrl(url), "json", origin)) as T;
   }
 
   async function fetchText(url: string, origin?: EndpointOrigin): Promise<string> {
-    return (await request(url, "text", origin)) as string;
+    return (await request(transformGithubUrl(url), "text", origin)) as string;
   }
 
   /** Whether the stored policy accepts a plaintext hop to the user's own host. */
