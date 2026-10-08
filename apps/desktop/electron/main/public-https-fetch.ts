@@ -26,12 +26,12 @@ const MAX_ATTEMPTS = 3;
 
 export type PublicHttpsFetch = (
   url: string,
-  init: { redirect: "manual"; signal: AbortSignal },
+  init: { redirect: "manual"; signal: AbortSignal; headers?: Record<string, string> },
 ) => Promise<Response>;
 
 export type PublicHttpsPinnedFetch = (
   url: string,
-  init: { redirect: "manual"; signal: AbortSignal },
+  init: { redirect: "manual"; signal: AbortSignal; headers?: Record<string, string> },
   address: PinnedNetworkAddress,
 ) => Promise<Response>;
 
@@ -336,7 +336,7 @@ export function createPublicHttpsClient(options: {
           headers["Authorization"] = `Bearer ${ghToken}`;
         }
       }
-      const init: RequestInit = {
+      const init: { redirect: "manual"; signal: AbortSignal; headers?: Record<string, string> } = {
         redirect: "manual",
         signal: AbortSignal.timeout(timeoutMs),
         headers,
