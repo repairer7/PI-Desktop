@@ -119,13 +119,13 @@ function loadSources(allowInsecureHttp = false): SkillMarketSource[] {
 // default branch becomes an installable entry and the catalogs grow with the
 // repos. All seven were verified to publish SKILL.md files at scan time.
 const DEFAULT_SKILL_SOURCES: SkillMarketSource[] = [
-  { id: "anthropics-skills", name: "anthropics/skills", url: "https://github.com/anthropics/skills" },
-  { id: "anthropics-plugins", name: "anthropics/claude-plugins-official", url: "https://github.com/anthropics/claude-plugins-official" },
-  { id: "obra-superpowers", name: "obra/superpowers", url: "https://github.com/obra/superpowers" },
-  { id: "wshobson-agents", name: "wshobson/agents", url: "https://github.com/wshobson/agents" },
-  { id: "mattpocock-skills", name: "mattpocock/skills", url: "https://github.com/mattpocock/skills" },
-  { id: "alirezarezvani-skills", name: "alirezarezvani/claude-skills", url: "https://github.com/alirezarezvani/claude-skills" },
-  { id: "composio-awesome", name: "ComposioHQ/awesome-claude-skills", url: "https://github.com/ComposioHQ/awesome-claude-skills" },
+  { id: "anthropics-skills", name: "anthropics-skills", url: "https://raw.githubusercontent.com/repairer7/PI-Desktop/main/skill-catalogs/anthropics-skills.json" },
+  { id: "anthropics-plugins", name: "anthropics-plugins", url: "https://raw.githubusercontent.com/repairer7/PI-Desktop/main/skill-catalogs/anthropics-plugins.json" },
+  { id: "obra-superpowers", name: "obra-superpowers", url: "https://raw.githubusercontent.com/repairer7/PI-Desktop/main/skill-catalogs/obra-superpowers.json" },
+  { id: "wshobson-agents", name: "wshobson-agents", url: "https://raw.githubusercontent.com/repairer7/PI-Desktop/main/skill-catalogs/wshobson-agents.json" },
+  { id: "mattpocock-skills", name: "mattpocock-skills", url: "https://raw.githubusercontent.com/repairer7/PI-Desktop/main/skill-catalogs/mattpocock-skills.json" },
+  { id: "alirezarezvani-skills", name: "alirezarezvani-skills", url: "https://raw.githubusercontent.com/repairer7/PI-Desktop/main/skill-catalogs/alirezarezvani-skills.json" },
+  { id: "composio-awesome", name: "composio-awesome", url: "https://raw.githubusercontent.com/repairer7/PI-Desktop/main/skill-catalogs/composio-awesome.json" },
 ];
 
 function saveSources(sources: SkillMarketSource[]): void {
