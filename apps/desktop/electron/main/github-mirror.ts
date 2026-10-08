@@ -1,11 +1,11 @@
 
 import { app, session } from "electron";
 
-let currentMirror: { enabled: boolean; url: string } = { enabled: false, url: "https://mirror.ghproxy.com/" };
+let currentMirror: { enabled: boolean; url: string; token?: string } = { enabled: false, url: "https://mirror.ghproxy.com/" };
 let hookInstalled = false;
 
 export function applyGithubMirrorFromAppSettings(settings: any) {
-  const s = settings as { enableGithubAcceleration?: boolean; githubAccelerationUrl?: string };
+  const s = settings as { enableGithubAcceleration?: boolean; githubAccelerationUrl?: string; githubPersonalAccessToken?: string };
   const enabled = s.enableGithubAcceleration ?? false;
   // Make sure it ends with a slash for proxying
   let url = (s.githubAccelerationUrl || "https://mirror.ghproxy.com/").trim();
@@ -13,7 +13,7 @@ export function applyGithubMirrorFromAppSettings(settings: any) {
     url += "/";
   }
 
-  currentMirror = { enabled, url };
+  currentMirror = { enabled, url, token: s.githubPersonalAccessToken };
   applyToAllSessions();
 }
 
@@ -65,3 +65,7 @@ export function transformGithubUrl(url: string): string {
   return url;
 }
 
+
+export function getGithubPersonalAccessToken(): string | undefined {
+  return currentMirror.token;
+}
