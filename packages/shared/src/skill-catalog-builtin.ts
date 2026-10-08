@@ -12,7 +12,7 @@
  */
 import type { SkillCatalogFile } from "./skill-catalog.js";
 
-const ANTHROPIC = "https://cdn.jsdelivr.net/gh/anthropics/skills@main/skills";
+const ANTHROPIC = "https://raw.githubusercontent.com/anthropics/skills/main/skills";
 const homepageFor = (slug: string) => `https://github.com/anthropics/skills/tree/main/skills/${slug}`;
 
 export const BUILTIN_SKILL_CATALOG: SkillCatalogFile = {
