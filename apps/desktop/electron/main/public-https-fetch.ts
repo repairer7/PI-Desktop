@@ -18,6 +18,7 @@ import {
   type PublicNetworkRoute,
 } from "@pi-desktop/shared";
 import type { PinnedNetworkAddress } from "./public-https-direct";
+import { getGithubPersonalAccessToken } from "./github-mirror";
 
 const DEFAULT_TIMEOUT_MS = 8_000;
 const MAX_HOPS = 5;
@@ -328,10 +329,18 @@ export function createPublicHttpsClient(options: {
       // destination this app learned from someone else, so it is judged by the
       // third-party policy without exception.
       const target = await inspectPublicUrl(current, hop === 0 ? origin : "third-party", true);
-      const init = {
+      const headers: Record<string, string> = {};
+      if (current.includes("api.github.com")) {
+        const ghToken = getGithubPersonalAccessToken();
+        if (ghToken) {
+          headers["Authorization"] = `Bearer ${ghToken}`;
+        }
+      }
+      const init: RequestInit = {
         redirect: "manual",
         signal: AbortSignal.timeout(timeoutMs),
-      } as const;
+        headers,
+      };
       const response =
         target.address && options.pinnedFetchImpl
           ? await options.pinnedFetchImpl(current, init, target.address)
