@@ -10,6 +10,7 @@ import { net, session } from "electron";
 import type { SkillCatalogEntry, SkillMarketSource } from "@pi-desktop/shared";
 import { fetchPinnedDirect } from "./public-https-direct";
 import { createPublicHttpsClient } from "./public-https-fetch";
+import { transformGithubUrl } from "./github-mirror";
 import {
   allowInsecureUserEndpointsEnabled,
   noteInsecureUserEndpoint,
@@ -52,13 +53,16 @@ const aggregator = createSkillMarketAggregator(client.request, {
   allowInsecureUserEndpoints: () => allowInsecureUserEndpointsEnabled(),
 });
 
+
 export function searchSkillMarket(
   query: string,
   sources: SkillMarketSource[],
 ): Promise<SkillMarketSearchResult> {
-  return aggregator.search(query, sources);
+  const transformedSources = sources.map((s) => ({ ...s, url: transformGithubUrl(s.url) }));
+  return aggregator.search(query, transformedSources);
 }
 
 export function fetchSkillMarketDocument(entry: SkillCatalogEntry): Promise<SkillMarketDocument> {
-  return aggregator.fetchEntryDocument(entry);
+  const transformedEntry = { ...entry, url: transformGithubUrl(entry.url) };
+  return aggregator.fetchEntryDocument(transformedEntry);
 }
