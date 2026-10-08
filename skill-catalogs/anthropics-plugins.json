@@ -1,0 +1,298 @@
+{
+  "catalog": {
+    "schemaVersion": 1,
+    "updatedAt": "2026-10-08",
+    "skills": [
+      {
+        "id": "access",
+        "name": "access",
+        "author": "anthropics",
+        "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/external_plugins/discord/skills/access",
+        "url": "https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/external_plugins/discord/skills/access/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "configure",
+        "name": "configure",
+        "author": "anthropics",
+        "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/external_plugins/discord/skills/configure",
+        "url": "https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/external_plugins/discord/skills/configure/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "claude-automation-recommender",
+        "name": "claude-automation-recommender",
+        "author": "anthropics",
+        "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/claude-code-setup/skills/claude-automation-recommender",
+        "url": "https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/claude-code-setup/skills/claude-automation-recommender/SKILL.md",
+        "categories": [
+          "coding"
+        ]
+      },
+      {
+        "id": "claude-md-improver",
+        "name": "claude-md-improver",
+        "author": "anthropics",
+        "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/claude-md-management/skills/claude-md-improver",
+        "url": "https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/claude-md-management/skills/claude-md-improver/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "claude-security",
+        "name": "claude-security",
+        "author": "anthropics",
+        "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/claude-security/skills/claude-security",
+        "url": "https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/claude-security/skills/claude-security/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cardputer-buddy",
+        "name": "cardputer-buddy",
+        "author": "anthropics",
+        "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/cwc-makers/skills/cardputer-buddy",
+        "url": "https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/cwc-makers/skills/cardputer-buddy/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "m5-onboard",
+        "name": "m5-onboard",
+        "author": "anthropics",
+        "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/cwc-makers/skills/m5-onboard",
+        "url": "https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/cwc-makers/skills/m5-onboard/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "example-command",
+        "name": "example-command",
+        "author": "anthropics",
+        "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/example-plugin/skills/example-command",
+        "url": "https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/example-plugin/skills/example-command/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "example-skill",
+        "name": "example-skill",
+        "author": "anthropics",
+        "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/example-plugin/skills/example-skill",
+        "url": "https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/example-plugin/skills/example-skill/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "frontend-design",
+        "name": "frontend-design",
+        "author": "anthropics",
+        "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/frontend-design/skills/frontend-design",
+        "url": "https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/frontend-design/skills/frontend-design/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "writing-rules",
+        "name": "writing-rules",
+        "author": "anthropics",
+        "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/hookify/skills/writing-rules",
+        "url": "https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/hookify/skills/writing-rules/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "math-olympiad",
+        "name": "math-olympiad",
+        "author": "anthropics",
+        "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/math-olympiad/skills/math-olympiad",
+        "url": "https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/math-olympiad/skills/math-olympiad/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "siege",
+        "name": "siege",
+        "author": "anthropics",
+        "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/math-proof/skills/siege",
+        "url": "https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/math-proof/skills/siege/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "solo",
+        "name": "solo",
+        "author": "anthropics",
+        "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/math-proof/skills/solo",
+        "url": "https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/math-proof/skills/solo/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "build-mcp-app",
+        "name": "build-mcp-app",
+        "author": "anthropics",
+        "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/mcp-server-dev/skills/build-mcp-app",
+        "url": "https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/mcp-server-dev/skills/build-mcp-app/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "build-mcp-server",
+        "name": "build-mcp-server",
+        "author": "anthropics",
+        "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/mcp-server-dev/skills/build-mcp-server",
+        "url": "https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/mcp-server-dev/skills/build-mcp-server/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "build-mcpb",
+        "name": "build-mcpb",
+        "author": "anthropics",
+        "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/mcp-server-dev/skills/build-mcpb",
+        "url": "https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/mcp-server-dev/skills/build-mcpb/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "playground",
+        "name": "playground",
+        "author": "anthropics",
+        "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/playground/skills/playground",
+        "url": "https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/playground/skills/playground/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "agent-development",
+        "name": "agent-development",
+        "author": "anthropics",
+        "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/plugin-dev/skills/agent-development",
+        "url": "https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/plugin-dev/skills/agent-development/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "command-development",
+        "name": "command-development",
+        "author": "anthropics",
+        "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/plugin-dev/skills/command-development",
+        "url": "https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/plugin-dev/skills/command-development/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "hook-development",
+        "name": "hook-development",
+        "author": "anthropics",
+        "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/plugin-dev/skills/hook-development",
+        "url": "https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/plugin-dev/skills/hook-development/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "mcp-integration",
+        "name": "mcp-integration",
+        "author": "anthropics",
+        "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/plugin-dev/skills/mcp-integration",
+        "url": "https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/plugin-dev/skills/mcp-integration/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "plugin-settings",
+        "name": "plugin-settings",
+        "author": "anthropics",
+        "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/plugin-dev/skills/plugin-settings",
+        "url": "https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/plugin-dev/skills/plugin-settings/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "plugin-structure",
+        "name": "plugin-structure",
+        "author": "anthropics",
+        "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/plugin-dev/skills/plugin-structure",
+        "url": "https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/plugin-dev/skills/plugin-structure/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "skill-development",
+        "name": "skill-development",
+        "author": "anthropics",
+        "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/plugin-dev/skills/skill-development",
+        "url": "https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/plugin-dev/skills/skill-development/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "project-artifact",
+        "name": "project-artifact",
+        "author": "anthropics",
+        "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/project-artifact/skills/project-artifact",
+        "url": "https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/project-artifact/skills/project-artifact/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "receipts",
+        "name": "receipts",
+        "author": "anthropics",
+        "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/receipts/skills/receipts",
+        "url": "https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/receipts/skills/receipts/SKILL.md",
+        "categories": [
+          "coding"
+        ]
+      },
+      {
+        "id": "session-report",
+        "name": "session-report",
+        "author": "anthropics",
+        "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/session-report/skills/session-report",
+        "url": "https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/session-report/skills/session-report/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "skill-creator",
+        "name": "skill-creator",
+        "author": "anthropics",
+        "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/skill-creator/skills/skill-creator",
+        "url": "https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/skill-creator/skills/skill-creator/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      }
+    ]
+  }
+}
