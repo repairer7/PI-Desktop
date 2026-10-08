@@ -1,0 +1,4638 @@
+{
+  "catalog": {
+    "schemaVersion": 1,
+    "updatedAt": "2026-10-08",
+    "skills": [
+      {
+        "id": "readme",
+        "name": "README",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/README",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/README/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "template",
+        "name": "TEMPLATE",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/TEMPLATE",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/TEMPLATE/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "a11y-audit",
+        "name": "a11y-audit",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/a11y-audit",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/a11y-audit/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "ab-test-setup",
+        "name": "ab-test-setup",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/ab-test-setup",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/ab-test-setup/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "ad-creative",
+        "name": "ad-creative",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/ad-creative",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/ad-creative/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "adversarial-reviewer",
+        "name": "adversarial-reviewer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/adversarial-reviewer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/adversarial-reviewer/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "aeo",
+        "name": "aeo",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/aeo",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/aeo/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "agent-decision-receipts",
+        "name": "agent-decision-receipts",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/agent-decision-receipts",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/agent-decision-receipts/SKILL.md",
+        "categories": [
+          "coding"
+        ]
+      },
+      {
+        "id": "agent-designer",
+        "name": "agent-designer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/agent-designer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/agent-designer/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "agent-harness",
+        "name": "agent-harness",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/agent-harness",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/agent-harness/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "agent-launcher-orchestrator",
+        "name": "agent-launcher-orchestrator",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/agent-launcher-orchestrator",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/agent-launcher-orchestrator/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "agent-memory",
+        "name": "agent-memory",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/agent-memory",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/agent-memory/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "agent-protocol",
+        "name": "agent-protocol",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/agent-protocol",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/agent-protocol/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "agent-workflow-designer",
+        "name": "agent-workflow-designer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/agent-workflow-designer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/agent-workflow-designer/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "agenthub",
+        "name": "agenthub",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/agenthub",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/agenthub/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "agile-product-owner",
+        "name": "agile-product-owner",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/agile-product-owner",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/agile-product-owner/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "ai-act-readiness",
+        "name": "ai-act-readiness",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/ai-act-readiness",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/ai-act-readiness/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "ai-security",
+        "name": "ai-security",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/ai-security",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/ai-security/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "aims-audit",
+        "name": "aims-audit",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/aims-audit",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/aims-audit/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "analytics-tracking",
+        "name": "analytics-tracking",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/analytics-tracking",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/analytics-tracking/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "andreessen",
+        "name": "andreessen",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/andreessen",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/andreessen/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "api-design-reviewer",
+        "name": "api-design-reviewer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/api-design-reviewer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/api-design-reviewer/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "api-test-suite-builder",
+        "name": "api-test-suite-builder",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/api-test-suite-builder",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/api-test-suite-builder/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "app-store-optimization",
+        "name": "app-store-optimization",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/app-store-optimization",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/app-store-optimization/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "apple-hig-expert",
+        "name": "apple-hig-expert",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/apple-hig-expert",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/apple-hig-expert/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "ar-resume",
+        "name": "ar-resume",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/ar-resume",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/ar-resume/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "ar-status",
+        "name": "ar-status",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/ar-status",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/ar-status/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "arquiteto-de-empresa",
+        "name": "arquiteto-de-empresa",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/arquiteto-de-empresa",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/arquiteto-de-empresa/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "atlassian-admin",
+        "name": "atlassian-admin",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/atlassian-admin",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/atlassian-admin/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "atlassian-templates",
+        "name": "atlassian-templates",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/atlassian-templates",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/atlassian-templates/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "autoresearch-agent",
+        "name": "autoresearch-agent",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/autoresearch-agent",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/autoresearch-agent/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "aws-solution-architect",
+        "name": "aws-solution-architect",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/aws-solution-architect",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/aws-solution-architect/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "azure-cloud-architect",
+        "name": "azure-cloud-architect",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/azure-cloud-architect",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/azure-cloud-architect/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "behuman",
+        "name": "behuman",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/behuman",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/behuman/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "board-deck-builder",
+        "name": "board-deck-builder",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/board-deck-builder",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/board-deck-builder/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "board-meeting",
+        "name": "board-meeting",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/board-meeting",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/board-meeting/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "board-prep",
+        "name": "board-prep",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/board-prep",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/board-prep/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "board",
+        "name": "board",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/board",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/board/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "boardroom",
+        "name": "boardroom",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/boardroom",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/boardroom/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "book-to-skill",
+        "name": "book-to-skill",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/book-to-skill",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/book-to-skill/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "boost-asio-pro",
+        "name": "boost-asio-pro",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/boost-asio-pro",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/boost-asio-pro/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "brand-guidelines",
+        "name": "brand-guidelines",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/brand-guidelines",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/brand-guidelines/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "brief",
+        "name": "brief",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/brief",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/brief/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "browser-automation",
+        "name": "browser-automation",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/browser-automation",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/browser-automation/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "browserstack",
+        "name": "browserstack",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/browserstack",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/browserstack/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "business-growth-skills",
+        "name": "business-growth-skills",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/business-growth-skills",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/business-growth-skills/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "business-investment-advisor",
+        "name": "business-investment-advisor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/business-investment-advisor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/business-investment-advisor/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "business-name-fit",
+        "name": "business-name-fit",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/business-name-fit",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/business-name-fit/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "business-operations-skills",
+        "name": "business-operations-skills",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/business-operations-skills",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/business-operations-skills/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "c-level-agents",
+        "name": "c-level-agents",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/c-level-agents",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/c-level-agents/SKILL.md",
+        "categories": [
+          "coding"
+        ]
+      },
+      {
+        "id": "c-level-skills",
+        "name": "c-level-skills",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/c-level-skills",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/c-level-skills/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "caio-review",
+        "name": "caio-review",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/caio-review",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/caio-review/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "campaign-analytics",
+        "name": "campaign-analytics",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/campaign-analytics",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/campaign-analytics/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "capa-officer",
+        "name": "capa-officer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/capa-officer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/capa-officer/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "capacity-planner",
+        "name": "capacity-planner",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/capacity-planner",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/capacity-planner/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "capture",
+        "name": "capture",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/capture",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/capture/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "caveman",
+        "name": "caveman",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/caveman",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/caveman/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cco-review",
+        "name": "cco-review",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cco-review",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cco-review/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cdo-review",
+        "name": "cdo-review",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cdo-review",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cdo-review/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "ceo-advisor",
+        "name": "ceo-advisor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/ceo-advisor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/ceo-advisor/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cfo-advisor",
+        "name": "cfo-advisor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cfo-advisor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cfo-advisor/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cfo-review",
+        "name": "cfo-review",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cfo-review",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cfo-review/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "challenge",
+        "name": "challenge",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/challenge",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/challenge/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "change-management",
+        "name": "change-management",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/change-management",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/change-management/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "changelog-generator",
+        "name": "changelog-generator",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/changelog-generator",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/changelog-generator/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "changelog",
+        "name": "changelog",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/changelog",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/changelog/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "channel-economics",
+        "name": "channel-economics",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/channel-economics",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/channel-economics/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "chaos-engineering",
+        "name": "chaos-engineering",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/chaos-engineering",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/chaos-engineering/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "chaos-experiment",
+        "name": "chaos-experiment",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/chaos-experiment",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/chaos-experiment/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "chief-ai-officer-advisor",
+        "name": "chief-ai-officer-advisor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/chief-ai-officer-advisor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/chief-ai-officer-advisor/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "chief-customer-officer-advisor",
+        "name": "chief-customer-officer-advisor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/chief-customer-officer-advisor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/chief-customer-officer-advisor/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "chief-data-officer-advisor",
+        "name": "chief-data-officer-advisor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/chief-data-officer-advisor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/chief-data-officer-advisor/SKILL.md",
+        "categories": [
+          "data"
+        ]
+      },
+      {
+        "id": "chief-of-staff",
+        "name": "chief-of-staff",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/chief-of-staff",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/chief-of-staff/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "chro-advisor",
+        "name": "chro-advisor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/chro-advisor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/chro-advisor/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "churn-prevention",
+        "name": "churn-prevention",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/churn-prevention",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/churn-prevention/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "ci-cd-pipeline-builder",
+        "name": "ci-cd-pipeline-builder",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/ci-cd-pipeline-builder",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/ci-cd-pipeline-builder/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "ciso-advisor",
+        "name": "ciso-advisor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/ciso-advisor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/ciso-advisor/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "ciso-review",
+        "name": "ciso-review",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/ciso-review",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/ciso-review/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "claude-coach",
+        "name": "claude-coach",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/claude-coach",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/claude-coach/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "clinical-research",
+        "name": "clinical-research",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/clinical-research",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/clinical-research/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cloud-security",
+        "name": "cloud-security",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cloud-security",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cloud-security/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cmd-a11y-audit",
+        "name": "cmd-a11y-audit",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cmd-a11y-audit",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cmd-a11y-audit/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cmd-code-to-prd",
+        "name": "cmd-code-to-prd",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cmd-code-to-prd",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cmd-code-to-prd/SKILL.md",
+        "categories": [
+          "coding"
+        ]
+      },
+      {
+        "id": "cmd-cs-aeo",
+        "name": "cmd-cs-aeo",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cmd-cs-aeo",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cmd-cs-aeo/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cmd-focused-fix",
+        "name": "cmd-focused-fix",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cmd-focused-fix",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cmd-focused-fix/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cmo-advisor",
+        "name": "cmo-advisor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cmo-advisor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cmo-advisor/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cmo-review",
+        "name": "cmo-review",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cmo-review",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cmo-review/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "code-reviewer",
+        "name": "code-reviewer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/code-reviewer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/code-reviewer/SKILL.md",
+        "categories": [
+          "coding"
+        ]
+      },
+      {
+        "id": "code-to-prd",
+        "name": "code-to-prd",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/code-to-prd",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/code-to-prd/SKILL.md",
+        "categories": [
+          "coding"
+        ]
+      },
+      {
+        "id": "code-tour",
+        "name": "code-tour",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/code-tour",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/code-tour/SKILL.md",
+        "categories": [
+          "coding"
+        ]
+      },
+      {
+        "id": "codebase-onboarding",
+        "name": "codebase-onboarding",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/codebase-onboarding",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/codebase-onboarding/SKILL.md",
+        "categories": [
+          "coding"
+        ]
+      },
+      {
+        "id": "cold-email",
+        "name": "cold-email",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cold-email",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cold-email/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "collab-proof",
+        "name": "collab-proof",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/collab-proof",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/collab-proof/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "commercial-forecaster",
+        "name": "commercial-forecaster",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/commercial-forecaster",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/commercial-forecaster/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "commercial-policy",
+        "name": "commercial-policy",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/commercial-policy",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/commercial-policy/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "commercial-skills",
+        "name": "commercial-skills",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/commercial-skills",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/commercial-skills/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "company-os",
+        "name": "company-os",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/company-os",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/company-os/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "competitive-intel",
+        "name": "competitive-intel",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/competitive-intel",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/competitive-intel/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "competitive-matrix",
+        "name": "competitive-matrix",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/competitive-matrix",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/competitive-matrix/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "competitive-teardown",
+        "name": "competitive-teardown",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/competitive-teardown",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/competitive-teardown/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "competitor-alternatives",
+        "name": "competitor-alternatives",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/competitor-alternatives",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/competitor-alternatives/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "compliance-os-bundle",
+        "name": "compliance-os-bundle",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/compliance-os-bundle",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/compliance-os-bundle/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "compliance-readiness",
+        "name": "compliance-readiness",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/compliance-readiness",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/compliance-readiness/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "confluence-expert",
+        "name": "confluence-expert",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/confluence-expert",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/confluence-expert/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "content-creator",
+        "name": "content-creator",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/content-creator",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/content-creator/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "content-humanizer",
+        "name": "content-humanizer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/content-humanizer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/content-humanizer/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "content-production",
+        "name": "content-production",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/content-production",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/content-production/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "content-strategist",
+        "name": "content-strategist",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/content-strategist",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/content-strategist/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "content-strategy",
+        "name": "content-strategy",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/content-strategy",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/content-strategy/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "context-engine",
+        "name": "context-engine",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/context-engine",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/context-engine/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "contract-and-proposal-writer",
+        "name": "contract-and-proposal-writer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/contract-and-proposal-writer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/contract-and-proposal-writer/SKILL.md",
+        "categories": [
+          "writing"
+        ]
+      },
+      {
+        "id": "coo-advisor",
+        "name": "coo-advisor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/coo-advisor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/coo-advisor/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "copy-editing",
+        "name": "copy-editing",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/copy-editing",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/copy-editing/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "copywriting",
+        "name": "copywriting",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/copywriting",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/copywriting/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "coverage",
+        "name": "coverage",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/coverage",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/coverage/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cpo-advisor",
+        "name": "cpo-advisor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cpo-advisor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cpo-advisor/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cpo-review",
+        "name": "cpo-review",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cpo-review",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cpo-review/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cro-advisor",
+        "name": "cro-advisor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cro-advisor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cro-advisor/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cro-review",
+        "name": "cro-review",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cro-review",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cro-review/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cross-eval",
+        "name": "cross-eval",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cross-eval",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cross-eval/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-aeo",
+        "name": "cs-aeo",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-aeo",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-aeo/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-agile-product-owner",
+        "name": "cs-agile-product-owner",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-agile-product-owner",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-agile-product-owner/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-backend-engineer",
+        "name": "cs-backend-engineer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-backend-engineer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-backend-engineer/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-backend-review",
+        "name": "cs-backend-review",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-backend-review",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-backend-review/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-ceo-advisor",
+        "name": "cs-ceo-advisor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-ceo-advisor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-ceo-advisor/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-content-creator",
+        "name": "cs-content-creator",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-content-creator",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-content-creator/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-cto-advisor",
+        "name": "cs-cto-advisor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-cto-advisor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-cto-advisor/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-demand-gen-specialist",
+        "name": "cs-demand-gen-specialist",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-demand-gen-specialist",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-demand-gen-specialist/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-engineer-grill",
+        "name": "cs-engineer-grill",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-engineer-grill",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-engineer-grill/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-engineering-lead",
+        "name": "cs-engineering-lead",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-engineering-lead",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-engineering-lead/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-financial-analyst",
+        "name": "cs-financial-analyst",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-financial-analyst",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-financial-analyst/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-frontend-engineer",
+        "name": "cs-frontend-engineer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-frontend-engineer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-frontend-engineer/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-frontend-review",
+        "name": "cs-frontend-review",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-frontend-review",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-frontend-review/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-fullstack-engineer",
+        "name": "cs-fullstack-engineer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-fullstack-engineer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-fullstack-engineer/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-fullstack-review",
+        "name": "cs-fullstack-review",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-fullstack-review",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-fullstack-review/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-growth-strategist",
+        "name": "cs-growth-strategist",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-growth-strategist",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-growth-strategist/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-karpathy-reviewer",
+        "name": "cs-karpathy-reviewer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-karpathy-reviewer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-karpathy-reviewer/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-onboard",
+        "name": "cs-onboard",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-onboard",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-onboard/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-product-analyst",
+        "name": "cs-product-analyst",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-product-analyst",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-product-analyst/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-product-manager",
+        "name": "cs-product-manager",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-product-manager",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-product-manager/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-product-strategist",
+        "name": "cs-product-strategist",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-product-strategist",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-product-strategist/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-project-manager",
+        "name": "cs-project-manager",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-project-manager",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-project-manager/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-quality-regulatory",
+        "name": "cs-quality-regulatory",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-quality-regulatory",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-quality-regulatory/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-senior-engineer",
+        "name": "cs-senior-engineer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-senior-engineer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-senior-engineer/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-ux-researcher",
+        "name": "cs-ux-researcher",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-ux-researcher",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-ux-researcher/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-webinar-marketer",
+        "name": "cs-webinar-marketer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-webinar-marketer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-webinar-marketer/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-webinar",
+        "name": "cs-webinar",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-webinar",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-webinar/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-wiki-ingestor",
+        "name": "cs-wiki-ingestor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-wiki-ingestor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-wiki-ingestor/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-wiki-librarian",
+        "name": "cs-wiki-librarian",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-wiki-librarian",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-wiki-librarian/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-wiki-linter",
+        "name": "cs-wiki-linter",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-wiki-linter",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-wiki-linter/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cs-workspace-admin",
+        "name": "cs-workspace-admin",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cs-workspace-admin",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cs-workspace-admin/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cto-advisor",
+        "name": "cto-advisor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cto-advisor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cto-advisor/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "cto-review",
+        "name": "cto-review",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/cto-review",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/cto-review/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "culture-architect",
+        "name": "culture-architect",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/culture-architect",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/culture-architect/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "customer-success-manager",
+        "name": "customer-success-manager",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/customer-success-manager",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/customer-success-manager/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "data-quality-auditor",
+        "name": "data-quality-auditor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/data-quality-auditor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/data-quality-auditor/SKILL.md",
+        "categories": [
+          "data"
+        ]
+      },
+      {
+        "id": "database-designer",
+        "name": "database-designer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/database-designer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/database-designer/SKILL.md",
+        "categories": [
+          "data"
+        ]
+      },
+      {
+        "id": "database-schema-designer",
+        "name": "database-schema-designer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/database-schema-designer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/database-schema-designer/SKILL.md",
+        "categories": [
+          "data"
+        ]
+      },
+      {
+        "id": "deal-desk",
+        "name": "deal-desk",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/deal-desk",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/deal-desk/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "decide",
+        "name": "decide",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/decide",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/decide/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "decision-logger",
+        "name": "decision-logger",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/decision-logger",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/decision-logger/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "deep-research",
+        "name": "deep-research",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/deep-research",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/deep-research/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "deep-work",
+        "name": "deep-work",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/deep-work",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/deep-work/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "deepread",
+        "name": "deepread",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/deepread",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/deepread/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "demo-video",
+        "name": "demo-video",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/demo-video",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/demo-video/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "dependency-auditor",
+        "name": "dependency-auditor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/dependency-auditor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/dependency-auditor/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "design-system",
+        "name": "design-system",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/design-system",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/design-system/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "devops-engineer",
+        "name": "devops-engineer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/devops-engineer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/devops-engineer/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "docker-development",
+        "name": "docker-development",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/docker-development",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/docker-development/SKILL.md",
+        "categories": [
+          "writing"
+        ]
+      },
+      {
+        "id": "dossier",
+        "name": "dossier",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/dossier",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/dossier/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "email-sequence",
+        "name": "email-sequence",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/email-sequence",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/email-sequence/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "email-template-builder",
+        "name": "email-template-builder",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/email-template-builder",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/email-template-builder/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "embedded-iot-mentor",
+        "name": "embedded-iot-mentor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/embedded-iot-mentor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/embedded-iot-mentor/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "engineering-advanced-skills",
+        "name": "engineering-advanced-skills",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/engineering-advanced-skills",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/engineering-advanced-skills/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "engineering-skills",
+        "name": "engineering-skills",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/engineering-skills",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/engineering-skills/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "env-secrets-manager",
+        "name": "env-secrets-manager",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/env-secrets-manager",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/env-secrets-manager/SKILL.md",
+        "categories": [
+          "coding"
+        ]
+      },
+      {
+        "id": "epic-design",
+        "name": "epic-design",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/epic-design",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/epic-design/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "eu-ai-act-specialist",
+        "name": "eu-ai-act-specialist",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/eu-ai-act-specialist",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/eu-ai-act-specialist/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "eval",
+        "name": "eval",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/eval",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/eval/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "execute",
+        "name": "execute",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/execute",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/execute/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "executive-mentor",
+        "name": "executive-mentor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/executive-mentor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/executive-mentor/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "experiment-designer",
+        "name": "experiment-designer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/experiment-designer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/experiment-designer/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "extract",
+        "name": "extract",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/extract",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/extract/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "fable-goal",
+        "name": "fable-goal",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/fable-goal",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/fable-goal/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "fda-consultant-specialist",
+        "name": "fda-consultant-specialist",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/fda-consultant-specialist",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/fda-consultant-specialist/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "fda-qsr-audit-prep",
+        "name": "fda-qsr-audit-prep",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/fda-qsr-audit-prep",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/fda-qsr-audit-prep/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "feature-flags-architect",
+        "name": "feature-flags-architect",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/feature-flags-architect",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/feature-flags-architect/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "finance-lead",
+        "name": "finance-lead",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/finance-lead",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/finance-lead/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "finance-skills",
+        "name": "finance-skills",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/finance-skills",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/finance-skills/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "financial-analyst",
+        "name": "financial-analyst",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/financial-analyst",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/financial-analyst/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "financial-health",
+        "name": "financial-health",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/financial-health",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/financial-health/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "fix",
+        "name": "fix",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/fix",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/fix/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "flag-cleanup",
+        "name": "flag-cleanup",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/flag-cleanup",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/flag-cleanup/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "focused-fix",
+        "name": "focused-fix",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/focused-fix",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/focused-fix/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "form-cro",
+        "name": "form-cro",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/form-cro",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/form-cro/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "founder-coach",
+        "name": "founder-coach",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/founder-coach",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/founder-coach/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "founder-mode",
+        "name": "founder-mode",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/founder-mode",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/founder-mode/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "free-tool-strategy",
+        "name": "free-tool-strategy",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/free-tool-strategy",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/free-tool-strategy/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "freeze",
+        "name": "freeze",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/freeze",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/freeze/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "full-page-screenshot",
+        "name": "full-page-screenshot",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/full-page-screenshot",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/full-page-screenshot/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "gc-review",
+        "name": "gc-review",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/gc-review",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/gc-review/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "gcp-cloud-architect",
+        "name": "gcp-cloud-architect",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/gcp-cloud-architect",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/gcp-cloud-architect/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "gdpr-audit-prep",
+        "name": "gdpr-audit-prep",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/gdpr-audit-prep",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/gdpr-audit-prep/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "gdpr-dsgvo-expert",
+        "name": "gdpr-dsgvo-expert",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/gdpr-dsgvo-expert",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/gdpr-dsgvo-expert/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "general-counsel-advisor",
+        "name": "general-counsel-advisor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/general-counsel-advisor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/general-counsel-advisor/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "generate",
+        "name": "generate",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/generate",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/generate/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "git-worktree-manager",
+        "name": "git-worktree-manager",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/git-worktree-manager",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/git-worktree-manager/SKILL.md",
+        "categories": [
+          "coding"
+        ]
+      },
+      {
+        "id": "google-workspace-cli",
+        "name": "google-workspace-cli",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/google-workspace-cli",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/google-workspace-cli/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "google-workspace",
+        "name": "google-workspace",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/google-workspace",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/google-workspace/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "grade-iterate",
+        "name": "grade-iterate",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/grade-iterate",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/grade-iterate/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "grants",
+        "name": "grants",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/grants",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/grants/SKILL.md",
+        "categories": [
+          "coding"
+        ]
+      },
+      {
+        "id": "grill-me",
+        "name": "grill-me",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/grill-me",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/grill-me/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "grill-with-docs",
+        "name": "grill-with-docs",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/grill-with-docs",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/grill-with-docs/SKILL.md",
+        "categories": [
+          "writing"
+        ]
+      },
+      {
+        "id": "growth-marketer",
+        "name": "growth-marketer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/growth-marketer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/growth-marketer/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "handoff",
+        "name": "handoff",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/handoff",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/handoff/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "hard-call",
+        "name": "hard-call",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/hard-call",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/hard-call/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "helm-chart-builder",
+        "name": "helm-chart-builder",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/helm-chart-builder",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/helm-chart-builder/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "hivemind",
+        "name": "hivemind",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/hivemind",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/hivemind/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "hub-init",
+        "name": "hub-init",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/hub-init",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/hub-init/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "hub-status",
+        "name": "hub-status",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/hub-status",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/hub-status/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "human-gate",
+        "name": "human-gate",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/human-gate",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/human-gate/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "inbox-setup",
+        "name": "inbox-setup",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/inbox-setup",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/inbox-setup/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "inbox-triage",
+        "name": "inbox-triage",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/inbox-triage",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/inbox-triage/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "incident-commander",
+        "name": "incident-commander",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/incident-commander",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/incident-commander/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "incident-response",
+        "name": "incident-response",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/incident-response",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/incident-response/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "information-security-manager-iso27001",
+        "name": "information-security-manager-iso27001",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/information-security-manager-iso27001",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/information-security-manager-iso27001/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "internal-comms",
+        "name": "internal-comms",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/internal-comms",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/internal-comms/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "internal-narrative",
+        "name": "internal-narrative",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/internal-narrative",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/internal-narrative/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "interview-system-designer",
+        "name": "interview-system-designer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/interview-system-designer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/interview-system-designer/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "interview",
+        "name": "interview",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/interview",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/interview/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "intl-expansion",
+        "name": "intl-expansion",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/intl-expansion",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/intl-expansion/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "isms-audit-expert",
+        "name": "isms-audit-expert",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/isms-audit-expert",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/isms-audit-expert/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "iso13485-audit-prep",
+        "name": "iso13485-audit-prep",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/iso13485-audit-prep",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/iso13485-audit-prep/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "iso27001-audit-prep",
+        "name": "iso27001-audit-prep",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/iso27001-audit-prep",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/iso27001-audit-prep/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "iso42001-specialist",
+        "name": "iso42001-specialist",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/iso42001-specialist",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/iso42001-specialist/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "jira-expert",
+        "name": "jira-expert",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/jira-expert",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/jira-expert/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "karpathy-check",
+        "name": "karpathy-check",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/karpathy-check",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/karpathy-check/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "karpathy-coder",
+        "name": "karpathy-coder",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/karpathy-coder",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/karpathy-coder/SKILL.md",
+        "categories": [
+          "coding"
+        ]
+      },
+      {
+        "id": "knowledge-ops",
+        "name": "knowledge-ops",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/knowledge-ops",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/knowledge-ops/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "kubernetes-operator",
+        "name": "kubernetes-operator",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/kubernetes-operator",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/kubernetes-operator/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "landing-page-generator",
+        "name": "landing-page-generator",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/landing-page-generator",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/landing-page-generator/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "landing",
+        "name": "landing",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/landing",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/landing/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "launch-strategy",
+        "name": "launch-strategy",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/launch-strategy",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/launch-strategy/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "linkedin-analytics",
+        "name": "linkedin-analytics",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/linkedin-analytics",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/linkedin-analytics/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "linkedin-content",
+        "name": "linkedin-content",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/linkedin-content",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/linkedin-content/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "linkedin-engagement",
+        "name": "linkedin-engagement",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/linkedin-engagement",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/linkedin-engagement/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "linkedin-profile",
+        "name": "linkedin-profile",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/linkedin-profile",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/linkedin-profile/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "linkedin-skills",
+        "name": "linkedin-skills",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/linkedin-skills",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/linkedin-skills/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "linkedin-strategy",
+        "name": "linkedin-strategy",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/linkedin-strategy",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/linkedin-strategy/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "litreview",
+        "name": "litreview",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/litreview",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/litreview/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "llm-cost-optimizer",
+        "name": "llm-cost-optimizer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/llm-cost-optimizer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/llm-cost-optimizer/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "llm-wiki",
+        "name": "llm-wiki",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/llm-wiki",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/llm-wiki/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "local-seo-manager",
+        "name": "local-seo-manager",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/local-seo-manager",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/local-seo-manager/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "loop",
+        "name": "loop",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/loop",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/loop/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "ma-playbook",
+        "name": "ma-playbook",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/ma-playbook",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/ma-playbook/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "markdown-html-orchestrator",
+        "name": "markdown-html-orchestrator",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/markdown-html-orchestrator",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/markdown-html-orchestrator/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "market-research",
+        "name": "market-research",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/market-research",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/market-research/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "marketing-context",
+        "name": "marketing-context",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/marketing-context",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/marketing-context/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "marketing-demand-acquisition",
+        "name": "marketing-demand-acquisition",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/marketing-demand-acquisition",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/marketing-demand-acquisition/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "marketing-ideas",
+        "name": "marketing-ideas",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/marketing-ideas",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/marketing-ideas/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "marketing-ops",
+        "name": "marketing-ops",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/marketing-ops",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/marketing-ops/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "marketing-psychology",
+        "name": "marketing-psychology",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/marketing-psychology",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/marketing-psychology/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "marketing-skills",
+        "name": "marketing-skills",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/marketing-skills",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/marketing-skills/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "marketing-strategy-pmm",
+        "name": "marketing-strategy-pmm",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/marketing-strategy-pmm",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/marketing-strategy-pmm/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "mcp-server-builder",
+        "name": "mcp-server-builder",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/mcp-server-builder",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/mcp-server-builder/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "md-document",
+        "name": "md-document",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/md-document",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/md-document/SKILL.md",
+        "categories": [
+          "writing"
+        ]
+      },
+      {
+        "id": "md-review",
+        "name": "md-review",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/md-review",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/md-review/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "md-slides",
+        "name": "md-slides",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/md-slides",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/md-slides/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "mdr-745-specialist",
+        "name": "mdr-745-specialist",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/mdr-745-specialist",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/mdr-745-specialist/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "meeting-analyzer",
+        "name": "meeting-analyzer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/meeting-analyzer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/meeting-analyzer/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "meetings",
+        "name": "meetings",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/meetings",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/meetings/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "memory-engineering",
+        "name": "memory-engineering",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/memory-engineering",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/memory-engineering/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "memory-review",
+        "name": "memory-review",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/memory-review",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/memory-review/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "memory-status",
+        "name": "memory-status",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/memory-status",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/memory-status/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "merge",
+        "name": "merge",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/merge",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/merge/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "migrate",
+        "name": "migrate",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/migrate",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/migrate/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "migration-architect",
+        "name": "migration-architect",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/migration-architect",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/migration-architect/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "minimalist",
+        "name": "minimalist",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/minimalist",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/minimalist/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "monorepo-navigator",
+        "name": "monorepo-navigator",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/monorepo-navigator",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/monorepo-navigator/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "ms365-tenant-manager",
+        "name": "ms365-tenant-manager",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/ms365-tenant-manager",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/ms365-tenant-manager/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "named-persona-adversarial-review",
+        "name": "named-persona-adversarial-review",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/named-persona-adversarial-review",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/named-persona-adversarial-review/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "notebooklm",
+        "name": "notebooklm",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/notebooklm",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/notebooklm/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "observability-designer",
+        "name": "observability-designer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/observability-designer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/observability-designer/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "office-hours",
+        "name": "office-hours",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/office-hours",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/office-hours/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "okr",
+        "name": "okr",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/okr",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/okr/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "onboard",
+        "name": "onboard",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/onboard",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/onboard/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "onboarding-cro",
+        "name": "onboarding-cro",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/onboarding-cro",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/onboarding-cro/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "operator-audit",
+        "name": "operator-audit",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/operator-audit",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/operator-audit/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "org-health-diagnostic",
+        "name": "org-health-diagnostic",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/org-health-diagnostic",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/org-health-diagnostic/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "page-cro",
+        "name": "page-cro",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/page-cro",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/page-cro/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "paid-ads",
+        "name": "paid-ads",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/paid-ads",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/paid-ads/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "partnerships-architect",
+        "name": "partnerships-architect",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/partnerships-architect",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/partnerships-architect/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "patent",
+        "name": "patent",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/patent",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/patent/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "paywall-upgrade-cro",
+        "name": "paywall-upgrade-cro",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/paywall-upgrade-cro",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/paywall-upgrade-cro/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "performance-profiler",
+        "name": "performance-profiler",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/performance-profiler",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/performance-profiler/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "persona",
+        "name": "persona",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/persona",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/persona/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "pipeline",
+        "name": "pipeline",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/pipeline",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/pipeline/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "plugin-audit",
+        "name": "plugin-audit",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/plugin-audit",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/plugin-audit/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "pm-skills",
+        "name": "pm-skills",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/pm-skills",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/pm-skills/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "popup-cro",
+        "name": "popup-cro",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/popup-cro",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/popup-cro/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "post-mortem",
+        "name": "post-mortem",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/post-mortem",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/post-mortem/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "postmortem",
+        "name": "postmortem",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/postmortem",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/postmortem/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "pr-review-expert",
+        "name": "pr-review-expert",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/pr-review-expert",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/pr-review-expert/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "prd",
+        "name": "prd",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/prd",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/prd/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "pricing-strategist",
+        "name": "pricing-strategist",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/pricing-strategist",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/pricing-strategist/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "pricing-strategy",
+        "name": "pricing-strategy",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/pricing-strategy",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/pricing-strategy/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "process-mapper",
+        "name": "process-mapper",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/process-mapper",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/process-mapper/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "procurement-optimizer",
+        "name": "procurement-optimizer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/procurement-optimizer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/procurement-optimizer/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "product-analytics",
+        "name": "product-analytics",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/product-analytics",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/product-analytics/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "product-discovery",
+        "name": "product-discovery",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/product-discovery",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/product-discovery/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "product-manager-toolkit",
+        "name": "product-manager-toolkit",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/product-manager-toolkit",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/product-manager-toolkit/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "product-manager",
+        "name": "product-manager",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/product-manager",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/product-manager/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "product-research",
+        "name": "product-research",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/product-research",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/product-research/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "product-skills",
+        "name": "product-skills",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/product-skills",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/product-skills/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "product-strategist",
+        "name": "product-strategist",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/product-strategist",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/product-strategist/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "programmatic-seo",
+        "name": "programmatic-seo",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/programmatic-seo",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/programmatic-seo/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "project-health",
+        "name": "project-health",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/project-health",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/project-health/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "promote",
+        "name": "promote",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/promote",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/promote/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "prompt-engineer-toolkit",
+        "name": "prompt-engineer-toolkit",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/prompt-engineer-toolkit",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/prompt-engineer-toolkit/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "prompt-governance",
+        "name": "prompt-governance",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/prompt-governance",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/prompt-governance/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "pulse",
+        "name": "pulse",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/pulse",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/pulse/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "pw-init",
+        "name": "pw-init",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/pw-init",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/pw-init/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "pw-review",
+        "name": "pw-review",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/pw-review",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/pw-review/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "pw",
+        "name": "pw",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/pw",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/pw/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "qms-audit-expert",
+        "name": "qms-audit-expert",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/qms-audit-expert",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/qms-audit-expert/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "quality-documentation-manager",
+        "name": "quality-documentation-manager",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/quality-documentation-manager",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/quality-documentation-manager/SKILL.md",
+        "categories": [
+          "writing"
+        ]
+      },
+      {
+        "id": "quality-manager-qmr",
+        "name": "quality-manager-qmr",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/quality-manager-qmr",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/quality-manager-qmr/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "quality-manager-qms-iso13485",
+        "name": "quality-manager-qms-iso13485",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/quality-manager-qms-iso13485",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/quality-manager-qms-iso13485/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "ra-qm-skills",
+        "name": "ra-qm-skills",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/ra-qm-skills",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/ra-qm-skills/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "rag-architect",
+        "name": "rag-architect",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/rag-architect",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/rag-architect/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "red-team",
+        "name": "red-team",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/red-team",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/red-team/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "referral-program",
+        "name": "referral-program",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/referral-program",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/referral-program/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "reflect",
+        "name": "reflect",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/reflect",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/reflect/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "regulatory-affairs-head",
+        "name": "regulatory-affairs-head",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/regulatory-affairs-head",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/regulatory-affairs-head/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "remember",
+        "name": "remember",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/remember",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/remember/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "report",
+        "name": "report",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/report",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/report/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "research-bundle",
+        "name": "research-bundle",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/research-bundle",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/research-bundle/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "research-finance",
+        "name": "research-finance",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/research-finance",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/research-finance/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "research-ops-skills",
+        "name": "research-ops-skills",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/research-ops-skills",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/research-ops-skills/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "research-summarizer",
+        "name": "research-summarizer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/research-summarizer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/research-summarizer/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "retro",
+        "name": "retro",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/retro",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/retro/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "revenue-operations",
+        "name": "revenue-operations",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/revenue-operations",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/revenue-operations/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "rfp-responder",
+        "name": "rfp-responder",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/rfp-responder",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/rfp-responder/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "rice",
+        "name": "rice",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/rice",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/rice/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "risk-management-specialist",
+        "name": "risk-management-specialist",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/risk-management-specialist",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/risk-management-specialist/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "roadmap-communicator",
+        "name": "roadmap-communicator",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/roadmap-communicator",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/roadmap-communicator/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "roast",
+        "name": "roast",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/roast",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/roast/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "run-without-you",
+        "name": "run-without-you",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/run-without-you",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/run-without-you/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "run",
+        "name": "run",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/run",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/run/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "runbook-generator",
+        "name": "runbook-generator",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/runbook-generator",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/runbook-generator/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "saas-health",
+        "name": "saas-health",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/saas-health",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/saas-health/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "saas-metrics-coach",
+        "name": "saas-metrics-coach",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/saas-metrics-coach",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/saas-metrics-coach/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "saas-scaffolder",
+        "name": "saas-scaffolder",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/saas-scaffolder",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/saas-scaffolder/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "sales-engineer",
+        "name": "sales-engineer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/sales-engineer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/sales-engineer/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "sample-skill",
+        "name": "sample-skill",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/sample-skill",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/sample-skill/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "scenario-war-room",
+        "name": "scenario-war-room",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/scenario-war-room",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/scenario-war-room/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "schema-markup",
+        "name": "schema-markup",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/schema-markup",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/schema-markup/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "scrum-master",
+        "name": "scrum-master",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/scrum-master",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/scrum-master/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "secrets-vault-manager",
+        "name": "secrets-vault-manager",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/secrets-vault-manager",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/secrets-vault-manager/SKILL.md",
+        "categories": [
+          "coding"
+        ]
+      },
+      {
+        "id": "security-guidance",
+        "name": "security-guidance",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/security-guidance",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/security-guidance/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "security-pen-testing",
+        "name": "security-pen-testing",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/security-pen-testing",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/security-pen-testing/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "self-eval",
+        "name": "self-eval",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/self-eval",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/self-eval/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "self-improving-agent",
+        "name": "self-improving-agent",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/self-improving-agent",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/self-improving-agent/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "senior-architect",
+        "name": "senior-architect",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/senior-architect",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/senior-architect/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "senior-backend",
+        "name": "senior-backend",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/senior-backend",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/senior-backend/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "senior-computer-vision",
+        "name": "senior-computer-vision",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/senior-computer-vision",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/senior-computer-vision/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "senior-data-engineer",
+        "name": "senior-data-engineer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/senior-data-engineer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/senior-data-engineer/SKILL.md",
+        "categories": [
+          "data"
+        ]
+      },
+      {
+        "id": "senior-data-scientist",
+        "name": "senior-data-scientist",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/senior-data-scientist",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/senior-data-scientist/SKILL.md",
+        "categories": [
+          "data"
+        ]
+      },
+      {
+        "id": "senior-devops",
+        "name": "senior-devops",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/senior-devops",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/senior-devops/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "senior-frontend",
+        "name": "senior-frontend",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/senior-frontend",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/senior-frontend/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "senior-fullstack",
+        "name": "senior-fullstack",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/senior-fullstack",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/senior-fullstack/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "senior-ml-engineer",
+        "name": "senior-ml-engineer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/senior-ml-engineer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/senior-ml-engineer/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "senior-pm",
+        "name": "senior-pm",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/senior-pm",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/senior-pm/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "senior-prompt-engineer",
+        "name": "senior-prompt-engineer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/senior-prompt-engineer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/senior-prompt-engineer/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "senior-qa",
+        "name": "senior-qa",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/senior-qa",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/senior-qa/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "senior-secops",
+        "name": "senior-secops",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/senior-secops",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/senior-secops/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "senior-security",
+        "name": "senior-security",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/senior-security",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/senior-security/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "seo-audit",
+        "name": "seo-audit",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/seo-audit",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/seo-audit/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "seo-auditor",
+        "name": "seo-auditor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/seo-auditor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/seo-auditor/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "setup",
+        "name": "setup",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/setup",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/setup/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "ship-gate",
+        "name": "ship-gate",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/ship-gate",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/ship-gate/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "signup-flow-cro",
+        "name": "signup-flow-cro",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/signup-flow-cro",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/signup-flow-cro/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "site-architecture",
+        "name": "site-architecture",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/site-architecture",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/site-architecture/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "skill-doctor",
+        "name": "skill-doctor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/skill-doctor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/skill-doctor/SKILL.md",
+        "categories": [
+          "writing"
+        ]
+      },
+      {
+        "id": "skill-security-auditor",
+        "name": "skill-security-auditor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/skill-security-auditor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/skill-security-auditor/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "skill-tester",
+        "name": "skill-tester",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/skill-tester",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/skill-tester/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "skillopt-sleep",
+        "name": "skillopt-sleep",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/skillopt-sleep",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/skillopt-sleep/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "skills-arquiteto-de-empresa",
+        "name": "skills-arquiteto-de-empresa",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/skills-arquiteto-de-empresa",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/skills-arquiteto-de-empresa/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "skills-chaos-engineering",
+        "name": "skills-chaos-engineering",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/skills-chaos-engineering",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/skills-chaos-engineering/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "skills-chief-ai-officer-advisor",
+        "name": "skills-chief-ai-officer-advisor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/skills-chief-ai-officer-advisor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/skills-chief-ai-officer-advisor/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "skills-chief-customer-officer-advisor",
+        "name": "skills-chief-customer-officer-advisor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/skills-chief-customer-officer-advisor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/skills-chief-customer-officer-advisor/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "skills-chief-data-officer-advisor",
+        "name": "skills-chief-data-officer-advisor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/skills-chief-data-officer-advisor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/skills-chief-data-officer-advisor/SKILL.md",
+        "categories": [
+          "data"
+        ]
+      },
+      {
+        "id": "skills-eu-ai-act-specialist",
+        "name": "skills-eu-ai-act-specialist",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/skills-eu-ai-act-specialist",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/skills-eu-ai-act-specialist/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "skills-feature-flags-architect",
+        "name": "skills-feature-flags-architect",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/skills-feature-flags-architect",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/skills-feature-flags-architect/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "skills-general-counsel-advisor",
+        "name": "skills-general-counsel-advisor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/skills-general-counsel-advisor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/skills-general-counsel-advisor/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "skills-handoff",
+        "name": "skills-handoff",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/skills-handoff",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/skills-handoff/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "skills-iso42001-specialist",
+        "name": "skills-iso42001-specialist",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/skills-iso42001-specialist",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/skills-iso42001-specialist/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "skills-kubernetes-operator",
+        "name": "skills-kubernetes-operator",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/skills-kubernetes-operator",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/skills-kubernetes-operator/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "skills-run",
+        "name": "skills-run",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/skills-run",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/skills-run/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "skills-slo-architect",
+        "name": "skills-slo-architect",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/skills-slo-architect",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/skills-slo-architect/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "skills-vpe-advisor",
+        "name": "skills-vpe-advisor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/skills-vpe-advisor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/skills-vpe-advisor/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "slo-architect",
+        "name": "slo-architect",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/slo-architect",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/slo-architect/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "slo-design",
+        "name": "slo-design",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/slo-design",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/slo-design/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "snowflake-development",
+        "name": "snowflake-development",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/snowflake-development",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/snowflake-development/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "soc2-audit-prep",
+        "name": "soc2-audit-prep",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/soc2-audit-prep",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/soc2-audit-prep/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "soc2-compliance",
+        "name": "soc2-compliance",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/soc2-compliance",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/soc2-compliance/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "social-content",
+        "name": "social-content",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/social-content",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/social-content/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "social-media-analyzer",
+        "name": "social-media-analyzer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/social-media-analyzer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/social-media-analyzer/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "social-media-manager",
+        "name": "social-media-manager",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/social-media-manager",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/social-media-manager/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "solo-founder",
+        "name": "solo-founder",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/solo-founder",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/solo-founder/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "spawn",
+        "name": "spawn",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/spawn",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/spawn/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "spec-driven-workflow",
+        "name": "spec-driven-workflow",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/spec-driven-workflow",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/spec-driven-workflow/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "spec-to-repo",
+        "name": "spec-to-repo",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/spec-to-repo",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/spec-to-repo/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "sprint-health",
+        "name": "sprint-health",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/sprint-health",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/sprint-health/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "sprint-plan",
+        "name": "sprint-plan",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/sprint-plan",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/sprint-plan/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "sql-database-assistant",
+        "name": "sql-database-assistant",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/sql-database-assistant",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/sql-database-assistant/SKILL.md",
+        "categories": [
+          "data"
+        ]
+      },
+      {
+        "id": "stage-launch",
+        "name": "stage-launch",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/stage-launch",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/stage-launch/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "startup-cto",
+        "name": "startup-cto",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/startup-cto",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/startup-cto/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "statistical-analyst",
+        "name": "statistical-analyst",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/statistical-analyst",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/statistical-analyst/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "stock-analysis",
+        "name": "stock-analysis",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/stock-analysis",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/stock-analysis/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "strategic-alignment",
+        "name": "strategic-alignment",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/strategic-alignment",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/strategic-alignment/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "stress-test",
+        "name": "stress-test",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/stress-test",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/stress-test/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "strict-api",
+        "name": "strict-api",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/strict-api",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/strict-api/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "stripe-integration-expert",
+        "name": "stripe-integration-expert",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/stripe-integration-expert",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/stripe-integration-expert/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "swedish-mentor",
+        "name": "swedish-mentor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/swedish-mentor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/swedish-mentor/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "syllabus",
+        "name": "syllabus",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/syllabus",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/syllabus/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "tc-tracker",
+        "name": "tc-tracker",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/tc-tracker",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/tc-tracker/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "tc",
+        "name": "tc",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/tc",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/tc/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "tdd-guide",
+        "name": "tdd-guide",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/tdd-guide",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/tdd-guide/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "tdd",
+        "name": "tdd",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/tdd",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/tdd/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "team-communications",
+        "name": "team-communications",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/team-communications",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/team-communications/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "tech-debt-tracker",
+        "name": "tech-debt-tracker",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/tech-debt-tracker",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/tech-debt-tracker/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "tech-debt",
+        "name": "tech-debt",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/tech-debt",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/tech-debt/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "tech-stack-evaluator",
+        "name": "tech-stack-evaluator",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/tech-stack-evaluator",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/tech-stack-evaluator/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "terraform-patterns",
+        "name": "terraform-patterns",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/terraform-patterns",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/terraform-patterns/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "testrail",
+        "name": "testrail",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/testrail",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/testrail/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "threat-detection",
+        "name": "threat-detection",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/threat-detection",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/threat-detection/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "ui-design-system",
+        "name": "ui-design-system",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/ui-design-system",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/ui-design-system/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "universal-scraping-architect",
+        "name": "universal-scraping-architect",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/universal-scraping-architect",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/universal-scraping-architect/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "user-story",
+        "name": "user-story",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/user-story",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/user-story/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "ux-researcher-designer",
+        "name": "ux-researcher-designer",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/ux-researcher-designer",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/ux-researcher-designer/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "vendor-management",
+        "name": "vendor-management",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/vendor-management",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/vendor-management/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "video-content-strategist",
+        "name": "video-content-strategist",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/video-content-strategist",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/video-content-strategist/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "vpe-advisor",
+        "name": "vpe-advisor",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/vpe-advisor",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/vpe-advisor/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "vpe-review",
+        "name": "vpe-review",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/vpe-review",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/vpe-review/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "webinar-marketing",
+        "name": "webinar-marketing",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/webinar-marketing",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/webinar-marketing/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "weekly-review",
+        "name": "weekly-review",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/weekly-review",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/weekly-review/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "wiki-ingest",
+        "name": "wiki-ingest",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/wiki-ingest",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/wiki-ingest/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "wiki-init",
+        "name": "wiki-init",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/wiki-init",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/wiki-init/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "wiki-lint",
+        "name": "wiki-lint",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/wiki-lint",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/wiki-lint/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "wiki-log",
+        "name": "wiki-log",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/wiki-log",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/wiki-log/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "wiki-query",
+        "name": "wiki-query",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/wiki-query",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/wiki-query/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "workflow-builder",
+        "name": "workflow-builder",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/workflow-builder",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/workflow-builder/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "wrap-up",
+        "name": "wrap-up",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/wrap-up",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/wrap-up/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "write-a-skill",
+        "name": "write-a-skill",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/write-a-skill",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/write-a-skill/SKILL.md",
+        "categories": [
+          "writing"
+        ]
+      },
+      {
+        "id": "x-twitter-growth",
+        "name": "x-twitter-growth",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/x-twitter-growth",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/x-twitter-growth/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "youtube-full",
+        "name": "youtube-full",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/youtube-full",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/youtube-full/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "zero-hallucination-coder",
+        "name": "zero-hallucination-coder",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/.gemini/skills/zero-hallucination-coder",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.gemini/skills/zero-hallucination-coder/SKILL.md",
+        "categories": [
+          "coding"
+        ]
+      },
+      {
+        "id": "compliance-os",
+        "name": "compliance-os",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/compliance-os/skills/compliance-os",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/compliance-os/skills/compliance-os/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "deep-learning-book",
+        "name": "deep-learning-book",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering/deep-learning-book/skills/deep-learning-book",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/deep-learning-book/skills/deep-learning-book/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "spinning-up-deep-rl",
+        "name": "spinning-up-deep-rl",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/engineering/spinning-up-deep-rl/skills/spinning-up-deep-rl",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/spinning-up-deep-rl/skills/spinning-up-deep-rl/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "loop-library",
+        "name": "loop-library",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/loop-library",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/loop-library/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "research",
+        "name": "research",
+        "author": "alirezarezvani",
+        "homepage": "https://github.com/alirezarezvani/claude-skills/tree/main/research/research/skills/research",
+        "url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/research/research/skills/research/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      }
+    ]
+  }
+}
