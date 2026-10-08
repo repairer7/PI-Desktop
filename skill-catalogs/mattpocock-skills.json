@@ -1,0 +1,388 @@
+{
+  "catalog": {
+    "schemaVersion": 1,
+    "updatedAt": "2026-10-08",
+    "skills": [
+      {
+        "id": "ask-matt",
+        "name": "ask-matt",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/engineering/ask-matt",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/ask-matt/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "code-review",
+        "name": "code-review",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/engineering/code-review",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/code-review/SKILL.md",
+        "categories": [
+          "coding"
+        ]
+      },
+      {
+        "id": "codebase-design",
+        "name": "codebase-design",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/engineering/codebase-design",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/codebase-design/SKILL.md",
+        "categories": [
+          "coding"
+        ]
+      },
+      {
+        "id": "diagnosing-bugs",
+        "name": "diagnosing-bugs",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/engineering/diagnosing-bugs",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/diagnosing-bugs/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "domain-modeling",
+        "name": "domain-modeling",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/engineering/domain-modeling",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/domain-modeling/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "grill-with-docs",
+        "name": "grill-with-docs",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/engineering/grill-with-docs",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/grill-with-docs/SKILL.md",
+        "categories": [
+          "writing"
+        ]
+      },
+      {
+        "id": "implement-spec",
+        "name": "implement-spec",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/engineering/implement-spec",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/implement-spec/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "implement",
+        "name": "implement",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/engineering/implement",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/implement/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "improve-codebase-architecture",
+        "name": "improve-codebase-architecture",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/engineering/improve-codebase-architecture",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/improve-codebase-architecture/SKILL.md",
+        "categories": [
+          "coding"
+        ]
+      },
+      {
+        "id": "pr",
+        "name": "pr",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/engineering/pr",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/pr/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "prototype",
+        "name": "prototype",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/engineering/prototype",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/prototype/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "research",
+        "name": "research",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/engineering/research",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/research/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "retro",
+        "name": "retro",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/engineering/retro",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/retro/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "setup-matt-pocock-skills",
+        "name": "setup-matt-pocock-skills",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/engineering/setup-matt-pocock-skills",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/setup-matt-pocock-skills/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "tdd",
+        "name": "tdd",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/engineering/tdd",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/tdd/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "to-spec",
+        "name": "to-spec",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/engineering/to-spec",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/to-spec/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "to-tickets",
+        "name": "to-tickets",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/engineering/to-tickets",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/to-tickets/SKILL.md",
+        "categories": [
+          "coding"
+        ]
+      },
+      {
+        "id": "triage",
+        "name": "triage",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/engineering/triage",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/triage/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "wayfinder",
+        "name": "wayfinder",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/engineering/wayfinder",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/wayfinder/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "wizard",
+        "name": "wizard",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/engineering/wizard",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/wizard/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "chief-of-staff",
+        "name": "chief-of-staff",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/in-progress/chief-of-staff",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/in-progress/chief-of-staff/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "claude-handoff",
+        "name": "claude-handoff",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/in-progress/claude-handoff",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/in-progress/claude-handoff/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "loop-me",
+        "name": "loop-me",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/in-progress/loop-me",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/in-progress/loop-me/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "setup-ts-deep-modules",
+        "name": "setup-ts-deep-modules",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/in-progress/setup-ts-deep-modules",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/in-progress/setup-ts-deep-modules/SKILL.md",
+        "categories": [
+          "coding"
+        ]
+      },
+      {
+        "id": "writing-beats",
+        "name": "writing-beats",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/in-progress/writing-beats",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/in-progress/writing-beats/SKILL.md",
+        "categories": [
+          "coding"
+        ]
+      },
+      {
+        "id": "writing-fragments",
+        "name": "writing-fragments",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/in-progress/writing-fragments",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/in-progress/writing-fragments/SKILL.md",
+        "categories": [
+          "coding"
+        ]
+      },
+      {
+        "id": "writing-shape",
+        "name": "writing-shape",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/in-progress/writing-shape",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/in-progress/writing-shape/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "git-guardrails-claude-code",
+        "name": "git-guardrails-claude-code",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/misc/git-guardrails-claude-code",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/misc/git-guardrails-claude-code/SKILL.md",
+        "categories": [
+          "coding"
+        ]
+      },
+      {
+        "id": "migrate-to-shoehorn",
+        "name": "migrate-to-shoehorn",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/misc/migrate-to-shoehorn",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/misc/migrate-to-shoehorn/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "scaffold-exercises",
+        "name": "scaffold-exercises",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/misc/scaffold-exercises",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/misc/scaffold-exercises/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "setup-pre-commit",
+        "name": "setup-pre-commit",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/misc/setup-pre-commit",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/misc/setup-pre-commit/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "grill-me",
+        "name": "grill-me",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/productivity/grill-me/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "grilling",
+        "name": "grilling",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/productivity/grilling",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/productivity/grilling/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "handoff",
+        "name": "handoff",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/productivity/handoff",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/productivity/handoff/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "teach",
+        "name": "teach",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/productivity/teach",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/productivity/teach/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "to-questionnaire",
+        "name": "to-questionnaire",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/productivity/to-questionnaire",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/productivity/to-questionnaire/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "wait-what",
+        "name": "wait-what",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/productivity/wait-what",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/productivity/wait-what/SKILL.md",
+        "categories": [
+          "workflow"
+        ]
+      },
+      {
+        "id": "writing-for-agents",
+        "name": "writing-for-agents",
+        "author": "mattpocock",
+        "homepage": "https://github.com/mattpocock/skills/tree/main/skills/productivity/writing-for-agents",
+        "url": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/productivity/writing-for-agents/SKILL.md",
+        "categories": [
+          "coding"
+        ]
+      }
+    ]
+  }
+}
