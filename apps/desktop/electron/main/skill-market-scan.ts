@@ -284,7 +284,7 @@ export function createSkillMarketAggregator(
       const [, owner, repo, ref, path] = match;
       const dir = path.replace(/SKILL\.md$/, "");
       try {
-        const listing = (await fetchJson<{ files?: Array<{ name: string }> }>(
+        const listing = (await fetchJson<{ tree?: Array<{ path: string }> }>(
           `https://data.jsdelivr.com/v1/packages/gh/${owner}/${repo}@${ref}?structure=flat`,
           "third-party",
         )) as { files?: Array<{ name: string }> };
