@@ -164,7 +164,40 @@ export function NetworkProxySection({
     <section className="settings-card-block">
       <h3 className="settings-card-heading">{t("settings.network")}</h3>
       <div className="settings-panel">
+        
         <SettingsRow
+          title={"Global GitHub Proxy"}
+          description={"Enable global GitHub mirror for plugins, skills, and updates (e.g. https://gh.mirror.ghproxy.com/)"}
+        >
+          <SettingsToggle
+            checked={settings.enableGithubAcceleration ?? false}
+            label={"Enable"}
+            onChange={() => void saveSettings({ enableGithubAcceleration: !(settings.enableGithubAcceleration ?? false) })}
+          />
+        </SettingsRow>
+
+        {settings.enableGithubAcceleration ? (
+          <>
+          <SettingsRow title={"GitHub Proxy URL"}>
+             <Input
+               value={settings.githubAccelerationUrl ?? "https://gh.mirror.ghproxy.com/"}
+               placeholder={"https://gh.mirror.ghproxy.com/"}
+               aria-label={"GitHub Proxy URL"}
+               onChange={(event) => void saveSettings({ githubAccelerationUrl: event.target.value })}
+             />
+          </SettingsRow>
+          <SettingsRow title={"GitHub PAT (Token)"} description={"Provide a GitHub Personal Access Token to bypass api.github.com rate limits when scanning skill markets."}>
+             <Input
+               type={"password"}
+               value={settings.githubPersonalAccessToken ?? ""}
+               placeholder={"ghp_..."}
+               aria-label={"GitHub PAT"}
+               onChange={(event) => void saveSettings({ githubPersonalAccessToken: event.target.value })}
+             />
+          </SettingsRow>
+          </>
+        ) : null}
+<SettingsRow
           title={t("settings.proxy")}
           description={t("settings.proxyDesc")}
         >
@@ -192,28 +225,6 @@ export function NetworkProxySection({
             onChange={() => void persistNetworkPolicy(relaxed ? "strict" : "relaxed")}
           />
         </SettingsRow>
-        
-        <SettingsRow
-          title={"GitHub Acceleration / Reverse Proxy"}
-          description={"Enable global GitHub mirror for plugins, skills, and updates (e.g. https://gh.mirror.ghproxy.com/)"}
-        >
-          <SettingsToggle
-            checked={settings.enableGithubAcceleration ?? false}
-            label={"Enable"}
-            onChange={() => void saveSettings({ enableGithubAcceleration: !(settings.enableGithubAcceleration ?? false) })}
-          />
-        </SettingsRow>
-
-        {settings.enableGithubAcceleration ? (
-          <SettingsRow title={"GitHub Proxy URL"}>
-             <Input
-               value={settings.githubAccelerationUrl ?? "https://gh.mirror.ghproxy.com/"}
-               placeholder={"https://gh.mirror.ghproxy.com/"}
-               aria-label={"GitHub Proxy URL"}
-               onChange={(event) => void saveSettings({ githubAccelerationUrl: event.target.value })}
-             />
-          </SettingsRow>
-        ) : null}
 
         {saved.mode === "custom" ? (
           <>
@@ -242,18 +253,6 @@ export function NetworkProxySection({
                     {t("settings.proxyInvalid")}
                   </span>
                 ) : null}
-
-          {settings.enableGithubAcceleration ? (
-            <SettingsRow title={"GitHub PAT (Token)"} description={"Provide a GitHub Personal Access Token to bypass api.github.com rate limits when scanning skill markets."}>
-               <Input
-                 type={"password"}
-                 value={settings.githubPersonalAccessToken ?? ""}
-                 placeholder={"ghp_..."}
-                 aria-label={"GitHub PAT"}
-                 onChange={(event) => void saveSettings({ githubPersonalAccessToken: event.target.value })}
-               />
-            </SettingsRow>
-          ) : null}
               </div>
             </SettingsRow>
             <SettingsRow
@@ -293,18 +292,6 @@ export function NetworkProxySection({
                     {testMessage}
                   </span>
                 ) : null}
-
-          {settings.enableGithubAcceleration ? (
-            <SettingsRow title={"GitHub PAT (Token)"} description={"Provide a GitHub Personal Access Token to bypass api.github.com rate limits when scanning skill markets."}>
-               <Input
-                 type={"password"}
-                 value={settings.githubPersonalAccessToken ?? ""}
-                 placeholder={"ghp_..."}
-                 aria-label={"GitHub PAT"}
-                 onChange={(event) => void saveSettings({ githubPersonalAccessToken: event.target.value })}
-               />
-            </SettingsRow>
-          ) : null}
               </div>
             </SettingsRow>
           </>
