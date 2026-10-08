@@ -262,7 +262,7 @@ export function createSkillMarketAggregator(
         name: rawSlug,
         author: owner,
         homepage: `https://github.com/${owner}/${repo}/tree/${branch}/${dir}`,
-        url: `https://raw.githubusercontent.com////`,
+        url: `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/${path}`,
         categories: guessSkillCategories(`${dir} ${rawSlug}`),
         sourceId: source.id,
       });
@@ -285,7 +285,7 @@ export function createSkillMarketAggregator(
       const dir = path.replace(/SKILL\.md$/, "");
       try {
         const listing = (await fetchJson<{ tree?: Array<{ path: string }> }>(
-          `https://api.github.com/repos///git/trees/?recursive=1`,
+          `https://api.github.com/repos/${owner}/${repo}/git/trees/${ref}?recursive=1`,
           "third-party",
         )) as { tree?: Array<{ path: string }> };
         const siblings = (listing.tree ?? [])
@@ -296,7 +296,7 @@ export function createSkillMarketAggregator(
           resources.push({
             path: name.slice(dir.length),
             body: await fetchText(
-              `https://raw.githubusercontent.com////`,
+              `https://raw.githubusercontent.com/${owner}/${repo}/${ref}/${name}`,
               "third-party",
             ),
           });
